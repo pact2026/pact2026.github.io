@@ -1,0 +1,90 @@
+<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+  <a
+    href="{{ site.baseurl }}/index"
+    class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
+  >
+    <img
+      class="bi me-2"
+      height="32"
+      src="{{ site.baseurl }}/images/pact-logo.png"
+    />
+    <span class="fs-4">PACT 2026</span>
+    &ensp;
+    <span class="fs-6 text-muted">{{ site.data.vars.conf_dates }}</span>
+  </a>
+
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/index"
+        class="nav-link {% if page.id == 'home' %} active {% endif %}"
+        aria-current="page"
+        >Home</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/submit"
+        class="nav-link {% if page.id == 'submit' %} active {% endif %}"
+        >Submit</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/ae"
+        class="nav-link {% if page.id == 'ae' %} active {% endif %}"
+        >AE</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/attend"
+        class="nav-link {% if page.id == 'attend' %} active {% endif %}"
+        >Attend</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/program"
+        class="nav-link {% if page.id == 'program' %} active {% endif %}"
+        >Program</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/workshops"
+        class="nav-link {% if page.id == 'workshops' %} active {% endif %}"
+        >Workshops/Tutorials</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/acm-src"
+        class="nav-link {% if page.id == 'acm-src' %} active {% endif %}"
+        >ACM SRC</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/sponsoring"
+        class="nav-link {% if page.id == 'sponsoring' %} active {% endif %}"
+        >Sponsoring</a
+      >
+    </li>
+
+    <li class="nav-item">
+      <a
+        href="{{ site.baseurl }}/organization"
+        class="nav-link {% if page.id == 'organization' %} active {% endif %}"
+        >Organization</a
+      >
+    </li>
+  </ul>
+</header>

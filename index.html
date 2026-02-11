@@ -1,0 +1,67 @@
+---
+## front matter tells Jekyll to process this as a Liquid template
+title: PACT 2026
+id:    home
+---
+
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    <div class="container">
+        {% include header.html %}
+
+        {% include index_hero.html %}
+
+        <div class="row mb-3">
+            <!-- main page content -->
+            <div class="col-md-8">
+                 {% include index_news.html %} 
+
+<!--                  <h2>
+                    <a href="{{site.baseUrl}}/Information">Information</a>
+                </h2> -->
+
+                <br> 
+                
+                <h3>
+                    <a href="{{site.baseurl}}/submit">Call for Papers</a>
+                </h3>
+
+                <br>
+
+                <h3>
+                    <a href="{{site.baseurl}}/workshops">Call for Workshop/Tutorials</a>
+                </h3>
+
+                <br>
+
+                <h3>
+                    <a href="{{site.baseurl}}/acm-src">Call for Student Research Competition Abstracts</a>
+                </h3>
+
+                <br>
+
+         </br> </br>
+
+                <h4>
+
+                For questions, please <a href="mailto:mtaufer@utk.edu">Email us</a> .
+
+                </h4>
+
+             </div>
+
+            <!-- sidebar -->
+            <div class="col-md-4">
+                {% include sidebar.html %}
+             </div>
+        </div>
+
+        {% include footer.html %}
+    </div> <!-- main container -->
+</body>
+
+</html>

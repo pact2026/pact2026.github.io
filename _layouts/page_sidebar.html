@@ -1,0 +1,25 @@
+---
+## front matter tells Jekyll to process this as a Liquid template
+---
+
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      {% include header.html active='index' %}
+
+      <div class="row mb-3">
+        <!-- main page content -->
+        <div class="col-md-8">{{ content }}</div>
+
+        <!-- sidebar -->
+        <div class="col-md-4">{% include sidebar.html %}</div>
+      </div>
+
+      {% include footer.html %}
+    </div>
+    <!-- main container -->
+  </body>
+</html>
