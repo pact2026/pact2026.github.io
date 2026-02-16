@@ -16,13 +16,17 @@ show_sidebar: true
 
 - **Jaejin Lee**, Seoul National University
 
+#### Program Vice-Chairs
+
+- **Bernhard Egger**, Seoul National University
+
 #### Workshop/Tutorial Chairs
 
 - **TBD**
 
 #### ACM Student Research Competition Chair
 
-- **TBD**
+- [Gerald F II Lofstead](https://www.sandia.gov/ccr/staff/gerald-fredrick-lofstead/), Sandia National Laboratory
 
 #### Registration Chair
 
