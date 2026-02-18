@@ -42,7 +42,8 @@ show_sidebar: true
 
 #### Publicity Co-Chairs
 
-- **TBD**
+- Zhao Yongwei, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+- Jie Ren, William & Mary
 
 #### Web Chair
 
