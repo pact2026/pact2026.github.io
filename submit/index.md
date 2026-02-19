@@ -17,7 +17,7 @@ PACT 2026 will be held in **Chicago, IL, USA**, from {{ site.data.vars.conf_date
 
 ### **Scope**
 
-The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference at the intersection of hardware and software, with a special emphasis on parallelism. PACT brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications to present and discuss their latest research results, tools, and practical experiences.
+The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference at the intersection of hardware and software, with a special emphasis on parallelism. PACT brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications to present and discuss their latest research results, tools, and practical experiences.   
 
 PACT 2026 will be held as an in-person event in Chicago, IL. USA. We encourage all authors of accepted papers to participate, and at least one author must attend the conference.
 
