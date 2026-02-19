@@ -95,7 +95,7 @@ TPE papers will be evaluated based on:
 
 ### **Submission Guidelines**
 
-Submissions are due **TBD**, via the conference submission site: [https://pact26.hotcrp.com](https://pact26.hotcrp.com). Ensure that your submission meets the following requirements:
+Submissions are due **April 24, 2026**, via the conference submission site: [https://pact26.hotcrp.com](https://pact26.hotcrp.com). Ensure that your submission meets the following requirements:
 
 - **Format:** Papers are limited to **10 pages** (excluding references) in **ACM 8.5" x 11" format**, double-column, 9pt font (e.g., using the `sigconf` LaTeX template). The text box must not exceed **7.15" x 9"** (18.2cm x 22.9cm). Templates are available on the [ACM Author Gateway](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
 - **Abstract:** Papers must include an abstract of **under 300 words**.
@@ -139,7 +139,7 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 
 - **Abstract Submission Deadline:** April 17, 2026
 - **Paper Submission Deadline:** April 24, 2026
-- **Rebuttal Period:** June 14-18, 2026
+- **Rebuttal Period:** July 12-16, 2026
 - **Author Notification:** August 5, 2026
 - **Artifact Submission:** August 10, 2026
 - **Camera-Ready Deadline:** October 2, 2026
