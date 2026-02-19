@@ -16,8 +16,7 @@ PACT 2026 will be held in **Chicago, IL, USA**, from {{ site.data.vars.conf_date
 **Submission Site:** [https://pact26.hotcrp.com](https://pact26.hotcrp.com)
 
 ### **Scope**
-
-The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference at the intersection of hardware and software, with a special emphasis on parallelism. PACT brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications to present and discuss their latest research results, tools, and practical experiences.
+The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference at the intersection of hardware and software, with a special emphasis on parallelism. PACT brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications to present and discuss their latest research results, tools, and practical experiences. This year, PACT is specifically committed to pioneering AI-centric computing, seeking research that redefines the performance, scalability, and efficiency of large-scale AI workloads across diverse parallel and heterogeneous platforms.
 
 PACT 2026 will be held as an in-person event in Chicago, IL. USA. We encourage all authors of accepted papers to participate, and at least one author must attend the conference.
 
@@ -139,7 +138,7 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 
 - **Abstract Submission Deadline:** April 17, 2026
 - **Paper Submission Deadline:** April 24, 2026
-- **Rebuttal Period:** June 14-18, 2026
+- **Rebuttal Period:** July 12-16, 2026
 - **Author Notification:** August 5, 2026
 - **Artifact Submission:** August 10, 2026
 - **Camera-Ready Deadline:** October 2, 2026
