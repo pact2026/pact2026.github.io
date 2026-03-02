@@ -26,7 +26,7 @@ show_sidebar: true
 
 #### Workshop/Tutorial Chairs
 
-- **TBD**
+- Sanjukta Bhowmick, University of North Texas
 
 #### Workshop/Tutorial Vice-Chairs
 
