@@ -71,7 +71,8 @@ Submit your extended abstract at: **\[SRC submission link to be posted\]**
 
 ### Important Dates
 
-Important dates for PACT 2026 will be announced soon.
+- **Abstract Registration Deadline:** August 17, 2026
+- **Abstract Submission Deadline:** August 21, 2026
 
 ---
 

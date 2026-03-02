@@ -14,15 +14,23 @@ show_sidebar: true
 
 #### Program Chairs
 
-- **Jaejin Lee**, Seoul National University
+- Jaejin Lee, Seoul National University
 
 #### Program Vice-Chairs
 
-- **Bernhard Egger**, Seoul National University
+- Bernhard Egger, Seoul National University
+
+#### Publication Chairs
+
+- Jungwon Kim, NVIDIA
 
 #### Workshop/Tutorial Chairs
 
 - **TBD**
+
+#### Workshop/Tutorial Vice-Chairs
+
+- Yuanchao Xu, University of California Santa Cruz
 
 #### ACM Student Research Competition Chair
 
@@ -34,11 +42,11 @@ show_sidebar: true
 
 #### Finance Chair
 
-- **Antonio Tumeo**, Pacific Northwest National Laboratory (PNNL)
+- Antonio Tumeo, Pacific Northwest National Laboratory (PNNL)
 
 #### Artifact Evaluation Chairs
 
-- **TBD**
+- Tanu Malik, University of Missouri
 
 #### Publicity Co-Chairs
 
@@ -47,7 +55,11 @@ show_sidebar: true
 
 #### Web Chair
 
-- **Kin Hong Ng**, University of Tennessee, Knoxville (UTK)
+- Kin Hong Ng, University of Tennessee, Knoxville (UTK)
+
+#### Local Arrangement Chair
+
+- Grace Wiesser, University of Tennessee, Knoxville
 
 ---
 
