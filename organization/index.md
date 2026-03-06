@@ -48,6 +48,11 @@ show_sidebar: true
 
 - Tanu Malik, University of Missouri
 
+#### Artifact Evaluation Vice-Chairs
+
+- Doru Adrian Thom Popovici, Lawrence Berkeley National Laboratory
+- Bogdan "Bo" Alexandru Stoica, University of Illinois Urbana-Champaign (UIUC)
+
 #### Publicity Co-Chairs
 
 - Zhao Yongwei, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
