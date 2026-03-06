@@ -98,20 +98,3 @@ show_sidebar: true
 ## External Review Committee
 
 **TBD**
-
----
-
-## Important Dates and Deadlines (PACT 2026)
-
-Dates will be announced.
-
-- **Conference:** October 19-22
-- **Conference Registration:** TBD
-- **Conference Papers:** TBD
-- **ACM SRC:** TBD
-
----
-
-## Sponsors
-
-To be announced.
