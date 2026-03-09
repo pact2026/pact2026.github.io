@@ -14,7 +14,7 @@ show_sidebar: true
 
 #### Program Chairs
 
-- [Jaejin Lee](https://sites.google.com/view/jaejinlee)  Seoul National University
+- [Jaejin Lee](https://sites.google.com/view/jaejinlee), Seoul National University
 
 #### Program Vice-Chairs
 
@@ -91,59 +91,58 @@ show_sidebar: true
 
 ## Technical Program Committee
 
-Ajeya Naithani,	Eindhoven University of Technology
-Albert Cohen, 	Google   
-Alexandre Eichenberger,	IBM
-Ana Lucia Varbanescu,	University of Twente
-Antonia Zhai,	University of Minnesota
-Bin Ren,	 William & Mary
-Changhee Jung,	Purdue University
-Dimitrios Nikolopoulos,	Virginia Tech
-Dimitris Gizopoulos,	University of Athens
-Elaheh Sadredini,	University of California Riverside
-Esin Tureci,	Princeton University
-Eun Jung Park, 	Qualcomm
-Gabriel Rodríguez,	Universidade da Coruña
-Hashim Sharif,	AMD
-Hyeran Jeon,	University of California Merced
-Hyojin Sung,	Seoul National University
-Ishita Chaturvedi,	Cerebrars
-J Nelson Amaral,	University of Alberta
-Jacques Pienaar, 	Google   
-Jae W. Lee,	Seoul National University
-Jaewoong Sim,	Seoul National University
-Jidong Zhai, Tsinghua University
-Jinho Lee,	Seoul National University
-John Kim,	KAIST
-Jose Luis Abellan,	Universidad De Murcia
-Julio Sahuquillo,	Universitat Politècnica de València
-Jung Ho Ahn,	Seoul National University
-Keiji Kimura,	Waseda University
-Keshav Pingali,	University of Texas at Austin
-Kiwan Maeng,	Penn State University
-Lingxiang Xiang,	Intel
-Michael Spear,	Lehigh University
-Myeongjae Jeon,	POSTECH
-Nikolaos Alachiotis,	University of Twente
-Nilay Vaish,	Google
-Paul Kelly,	Imperial College London
-Pavlos Petoumenos,	University of Manchester
-Pedro Diniz,	University of Porto
-Ramon Bertran Monfort,	IBM
-Ruchi Shah,	AMD
-Ruobing Han,	Google Deep Mind
-Smruti Sarangi,	IIT Delhi
-Soumyadeep Ghosh,	Meta
-Sreepathi Pai,	University of Rochester
-Sriram Krishnamoorthy,	Pacific Northwest National Laboratories
-Taewook Oh,	Meta
-Wookeun Jung,	Moreh
-Yan Gu,	University of California Riverside
-Yanwen Xu,	Samsung
-Yiannis Papadopoulos,	AMD
-Yongwei Zhao,	Chinese Academy of Sciences
-Younghyun Cho,	Santa Clara University
-Yungang Bao,	Chinese Academy of Sciences
-Zehra Sura,	Bloomberg
-Zidong Du,	Chinese Academy of Sciences
-
+- Ajeya Naithani, Eindhoven University of Technology
+- Albert Cohen,  Google
+- Alexandre Eichenberger, IBM
+- Ana Lucia Varbanescu, University of Twente
+- Antonia Zhai, University of Minnesota
+- Bin Ren,  William & Mary
+- Changhee Jung, Purdue University
+- Dimitrios Nikolopoulos, Virginia Tech
+- Dimitris Gizopoulos, University of Athens
+- Elaheh Sadredini, University of California Riverside
+- Esin Tureci, Princeton University
+- Eun Jung Park, Qualcomm
+- Gabriel Rodríguez, Universidade da Coruña
+- Hashim Sharif, AMD
+- Hyeran Jeon, University of California Merced
+- Hyojin Sung, Seoul National University
+- Ishita Chaturvedi, Cerebrars
+- J Nelson Amaral, University of Alberta
+- Jacques Pienaar,  Google
+- Jae W. Lee, Seoul National University
+- Jaewoong Sim, Seoul National University
+- Jidong Zhai, Tsinghua University
+- Jinho Lee, Seoul National University
+- John Kim, KAIST
+- Jose Luis Abellan, Universidad De Murcia
+- Julio Sahuquillo, Universitat Politècnica de València
+- Jung Ho Ahn, Seoul National University
+- Keiji Kimura, Waseda University
+- Keshav Pingali, University of Texas at Austin
+- Kiwan Maeng, Penn State University
+- Lingxiang Xiang, Intel
+- Michael Spear, Lehigh University
+- Myeongjae Jeon, POSTECH
+- Nikolaos Alachiotis, University of Twente
+- Nilay Vaish, Google
+- Paul Kelly, Imperial College London
+- Pavlos Petoumenos, University of Manchester
+- Pedro Diniz, University of Porto
+- Ramon Bertran Monfort, IBM
+- Ruchi Shah, AMD
+- Ruobing Han, Google Deep Mind
+- Smruti Sarangi, IIT Delhi
+- Soumyadeep Ghosh, Meta
+- Sreepathi Pai, University of Rochester
+- Sriram Krishnamoorthy, Pacific Northwest National Laboratories
+- Taewook Oh, Meta
+- Wookeun Jung, Moreh
+- Yan Gu, University of California Riverside
+- Yanwen Xu, Samsung
+- Yiannis Papadopoulos, AMD
+- Yongwei Zhao, Chinese Academy of Sciences
+- Younghyun Cho, Santa Clara University
+- Yungang Bao, Chinese Academy of Sciences
+- Zehra Sura, Bloomberg
+- Zidong Du, Chinese Academy of Sciences
