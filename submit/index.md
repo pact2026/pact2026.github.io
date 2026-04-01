@@ -106,6 +106,8 @@ Submissions are due **April 24, 2026**, via the conference submission site: [htt
 - **Submission Format:** Papers must be submitted in **PDF format**.
 - **Supplementary Material:** A single **anonymized** PDF may be uploaded with additional proofs, results, or datasets. Reviewers are not required to consult supplementary material.
 
+Prior or concurrent publication in non-peer-reviewed contexts, like arXiv.org, technical reports, talks, and social media posts, is permitted. However, to avoid compromising the double-anonymity requirement, we request that the authors refrain from publicizing and uploading versions of their submitted manuscripts to pre-publication servers, such as arXiv, and other online forums during the reviewing period. If a version of a submission already resides on a pre-publication server, such as arXiv, the authors do not need to remove it before submitting to PACT.
+
 #### Posters:
 
 - Poster submissions must follow the same formatting guidelines but are limited to **2 pages**.
