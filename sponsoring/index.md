@@ -6,7 +6,7 @@ layout: page_sidebar
 show_sidebar: true
 ---
 
-# Sponsorship Packages for PACT'26
+## Sponsorship Packages for PACT'26
 
 ## Platinum
 

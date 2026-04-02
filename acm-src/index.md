@@ -6,11 +6,12 @@ id: acm-src
 
 ## Student Research Competition (SRC) — PACT 2026
 
+<!--
 ### Winners
 
 Winners for the PACT 2026 Student Research Competition will be announced after the conference.
-
 ---
+-->
 
 ### About
 

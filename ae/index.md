@@ -6,7 +6,7 @@ layout: page_sidebar
 show_sidebar: true
 ---
 
-# Artifact Submission
+## Artifact Submission
 
 _This page is based on the [submission guidelines for artifact evaluation set by ML Commons](https://github.com/ctuning/artifact-evaluation/blob/master/docs/submission.md)._
 
