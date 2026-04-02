@@ -6,7 +6,7 @@ layout: page_sidebar
 show_sidebar: true
 ---
 
-# Call for Papers
+## Call for Papers
 
 PACT 2026 will be held in **Chicago, IL, USA**, from {{ site.data.vars.conf_dates }}.
 
@@ -126,7 +126,7 @@ Authors must declare **all** conflicts of interest with PC members and external 
 
 Authors of accepted papers are **encouraged** to submit their artifacts for evaluation. The Artifact Evaluation Committee assesses availability, functionality, and reproducibility. Successful artifacts will receive a **seal of approval** in the published paper. Authors can include a **2-page Artifact Appendix** in the final paper.
 
-We encourage authors to use open-source frameworks such as [Docker](https://www.docker.com/), [OCCAM](https://occam.cs.pitt.edu/), [reprozip](https://www.reprozip.org/), [CodeOcean](https://codeocean.com/), and [Collective Knowledge](https://cknowledge.io/docs/) to improve artifact portability and reproducibility.
+We encourage authors to use open-source frameworks such as [Docker](https://www.docker.com/), [OCCAM](https://occam.cs.pitt.edu/), [reprozip](https://www.reprozip.org/), and [CodeOcean](https://codeocean.com/) to improve artifact portability and reproducibility.
 
 ---
 

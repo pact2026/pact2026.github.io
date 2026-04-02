@@ -6,7 +6,7 @@ layout: page_sidebar
 show_sidebar: true
 ---
 
-# Call for Workshops/Tutorials
+## Call for Workshops/Tutorials
 
 We are soliciting proposals for workshops and tutorials within [the general scope of PACT](../submit). Members of the community are encouraged to submit proposals for workshops and tutorials that bring together researchers and practitioners to share their tools, technologies, latest results and to discuss work in progress and new directions. Topics on distributed system innovations leveraging new device and packaging innovations, trends in heterogeneous computing based on domain specific accelerators, compilation/system-management for such systems, and addressing emerging applications domains, are encouraged.
 
