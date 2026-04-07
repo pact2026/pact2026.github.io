@@ -116,6 +116,7 @@ show_sidebar: true
 - Jinho Lee, Seoul National University
 - John Kim, KAIST
 - Jose Luis Abellan, Universidad De Murcia
+- Jungwon Kim, NVIDIA
 - Julio Sahuquillo, Universitat Politècnica de València
 - Jung Ho Ahn, Seoul National University
 - Keiji Kimura, Waseda University
