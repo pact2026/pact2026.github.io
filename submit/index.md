@@ -10,8 +10,8 @@ show_sidebar: true
 
 PACT 2026 will be held in **Chicago, IL, USA**, from {{ site.data.vars.conf_dates }}.
 
-**Abstracts Due:** April 17, 2026  
-**Papers Due:** April 24, 2026
+**Abstracts Due:** April 17, 2026 (extended to April 23, 2026)
+**Papers Due:** April 24, 2026 (extended to April 30, 2026)
 
 **Submission Site:** [https://pact26.hotcrp.com](https://pact26.hotcrp.com)
 
