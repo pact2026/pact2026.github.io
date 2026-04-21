@@ -42,7 +42,7 @@ show_sidebar: true
 
 #### Finance Chair
 
-- Antonio Tumeo, Pacific Northwest National Laboratory (PNNL)
+- Antonino Tumeo, Pacific Northwest National Laboratory (PNNL)
 
 #### Artifact Evaluation Chairs
 
