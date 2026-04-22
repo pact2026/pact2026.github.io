@@ -16,7 +16,7 @@ Those interested in organizing a workshop or tutorial are invited to contact the
 
 - Submission deadline for workshops: **April 14, 2026**
 - Submission deadline for tutorials: **April 14, 2026**
-- Workshop/Tutorials to be held on **May 1, 2026**
+- Workshop/Tutorials: **notification**
 
 ## Proposal Submission
 
