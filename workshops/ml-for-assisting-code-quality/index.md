@@ -41,7 +41,7 @@ tools into the software engineering process.
 
 ---
 
-## Main topics:
+## Main topics
 
 - ML-based code generation successes and challenges for various application domains
 - ML-based software testing, test coverage, and all other testing related topics
