@@ -33,7 +33,7 @@ show_sidebar: true
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/people/2_tutorial_ Ali_Akoglu.jpg" alt="Ali Akoglu" style="max-width: 150px;">
+  <img src="/images/people/2_tutorial_ ali_akoglu.jpg" alt="Ali Akoglu" style="max-width: 150px;">
   <div>
     <p style="margin: 0; font-weight: bold;">Ali Akoglu</p>
     <a href="mailto:akoglu@arizona.edu" style="margin: 0; font-weight: bold;">akoglu@arizona.edu</a>
