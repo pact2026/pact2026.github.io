@@ -14,9 +14,17 @@ show_sidebar: true
 
 **Scheduling:** Monday, October 19 (morning)
 
-**Workshop Chair:**
+**Workshop Chair**
 
 - Jay Lofstead, Sandia National Laboratories
+
+**Program Committee**
+
+- Jim Willenbring (SNL)
+- Vanessa Sochat (LLNL)
+- Ewa Deelman (ICI/USC)
+- Sandra Gesing (USRSE)
+- Weronika Filinger (EPCC)
 
 ---
 
@@ -47,8 +55,7 @@ tools into the software engineering process.
 - ML-based software testing, test coverage, and all other testing related topics
 - Security auditing using ML tools
 - Software design assistance using ML tools
-- Balancing the human and ML costs over the short term through the long term for
-- software engineering and full product life cycle costs
+- Balancing the human and ML costs over the short term through the long term for software engineering and full product life cycle costs
 - Related topics of using ML tools to support software related activities
 
 ---
@@ -57,7 +64,7 @@ tools into the software engineering process.
 
 To better support Software Engineering professionals, we will accept abstracts for talks, in addition to solely peer-reviewed submissions.
 
-**Link to submission portal:** _coming soon_
+**Link to submission portal:** [https://easychair.org/conferences/?conf=mlac26](https://easychair.org/conferences/?conf=mlac26)
 
 ---
 
