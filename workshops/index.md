@@ -26,6 +26,23 @@ show_sidebar: true
 
 ---
 
+### 1st LACS (Learning-Augmented Compilers & Systems)
+
+**Scheduling:** Monday, October 19 (afternoon)
+
+**Workshop Chair:**
+
+- [Eun Jung (EJ) Park](https://www.linkedin.com/in/bolgre), Qualcomm Inc.
+- [Riyadh Baghdadi](http://people.csail.mit.edu/baghdadi/), New York University Abu Dhabi and Massachusetts Institute of Technology
+- [Joseph Manzano](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7318), Pacific Northwest National Laboratory
+- [Keren Zhou](https://www.jokeren.tech/), George Mason University & OpenAI
+
+**Read more here:** <a href="https://lacs-workshop.github.io" target="_blank" rel="noopener noreferrer">1st LACS (Learning-Augmented Compilers & Systems)</a>
+
+**Submission:** [EasyChair](https://easychair.org/account/signin?l=53931730252501093.1778543078.579a9c2a)
+
+---
+
 ### The 5th International Workshop on Machine Learning for Software Hardware Co-Design (MLSH'24)
 
 **Scheduling**: Monday, October 19 (afternoon)
