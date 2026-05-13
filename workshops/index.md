@@ -83,7 +83,7 @@ show_sidebar: true
 - Nicolas Bohm Agostini (PNNL)
 - Vito Giovanni Castellana (PNNL)
 - Fabrizio Ferrandi (Politecnico di Milano)
-- Giovanni Gozzi (Politecnico di Milano)
+- Serena Curzel, (Politecnico di Milano)
 - Ankur Limaye (PNNL)
 - Antonino Tumeo (PNNL)
 
