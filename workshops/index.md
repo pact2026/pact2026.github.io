@@ -20,7 +20,7 @@ show_sidebar: true
 
 - Jay Lofstead, Sandia National Laboratories
 
-**Read more here:** <a href="/workshops/ml-for-assisting-code-quality/" target="_blank" rel="noopener noreferrer">1st Workshop on ML for Assisting Code Quality (MLAC)</a>
+**Read more here:** <a href="https://sites.google.com/view/mlac26/home" target="_blank" rel="noopener noreferrer">1st Workshop on ML for Assisting Code Quality (MLAC)</a>
 
 **Submission:** _Coming Soon (Note: this workshop accepts abstracts for talks, in addition to solely peer-reviewed submissions.)_
 
