@@ -36,10 +36,6 @@ show_sidebar: true
 
 - [Gerald F II Lofstead](https://www.sandia.gov/ccr/staff/gerald-fredrick-lofstead/), Sandia National Laboratory
 
-#### Registration Chair
-
-- **TBD**
-
 #### Finance Chair
 
 - Antonino Tumeo, Pacific Northwest National Laboratory (PNNL)
