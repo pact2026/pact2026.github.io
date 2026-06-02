@@ -16,10 +16,10 @@ PACT 2026 will conduct artifact evaluation (AE) this year. AE has become a commo
 
 PACT 2026's artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/ctuning/artifact-evaluation/blob/master/docs/submission.md).
 
-**Artifact registrations are due by TBD.**  
+**Artifact registrations are due by August 3rd, 2026.**  
  **Full artifact submissions are due by August 10, 2026.**
 
-Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
+Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Authors can apply for, and be awarded, one of following three badge combinations: [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
 ![](https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg)
 ![](https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg)
@@ -32,8 +32,6 @@ You need to prepare the [Artifact Appendix](https://github.com/ctuning/artifact-
 You can find the examples of Artifact Appendices in the following: **coming soon**.
 
 ## Preparing your experimental workflow
-
-**You can skip this step if you want to share your artifacts without the validation of experimental results - in such case, your paper can still be entitled for the "artifact available" badge!**
 
 We strongly recommend you to provide at least some automation scripts to build your workflow, all inputs to run your workflow, and some expected outputs to validate results from your paper. You can then describe the steps for evaluating your artifact in README files or [Jupyter Notebooks](https://jupyter.org/).
 
