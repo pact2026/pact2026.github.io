@@ -21,9 +21,28 @@ PACT 2026's artifact evaluation process will follow the [guidelines for artifact
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Authors can apply for, and be awarded, one of following three badge combinations: [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
-![](https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg)
-![](https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg)
-![](https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_reproduced_dl.jpg)
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="display: flex; min-width: 241px;">
+        <img src="/images/acm/badges_acm_green.png" style="width: 70px; margin-right: 8px;">
+        <img src="/images/acm/badges_acm_red.png" style="width: 70px; margin-right: 8px;">
+        <img src="/images/acm/badges_acm_blue.png" style="width: 70px; margin-right: 15px;">
+    </div>
+    <span><b>Available, Functional, and Reproduced:</b> for the vast majority of software artifacts, and hardware artifacts whenever possible.</span>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="display: flex; min-width: 241px;">
+        <img src="/images/acm/badges_acm_green.png" style="width: 70px; margin-right: 8px;">
+        <img src="/images/acm/badges_acm_red.png" style="width: 70px; margin-right: 15px;">
+    </div>
+    <span><b>Available and Functional:</b> for datasets, as well as artifacts that require custom environments authors can't give access to. </span>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="display: flex; min-width: 241px;">
+        <img src="/images/acm/badges_acm_red.png" style="width: 70px; margin-right: 8px;">
+        <img src="/images/acm/badges_acm_blue.png" style="width: 70px; margin-right: 15px;">
+    </div>
+    <span><b>Functional and Reproduced:</b> for software and hardware artifacts that the authors cannot make public.</span>
+</div>
 
 ## Preparing your Artifact Appendix and the Reproducibility Checklist
 
