@@ -20,9 +20,9 @@ show_sidebar: true
 
 - Jay Lofstead, Sandia National Laboratories
 
-**Read more here:** <a href="https://easychair.org/conferences/?conf=mlac26" target="_blank" rel="noopener noreferrer">1st Workshop on ML for Assisting Code Quality (MLAC)</a>
+**Read more here:** <a href="https://sites.google.com/view/mlac26/home" target="_blank" rel="noopener noreferrer">1st Workshop on ML for Assisting Code Quality (MLAC)</a>
 
-**Submission:** _Coming Soon (Note: this workshop accepts abstracts for talks, in addition to solely peer-reviewed submissions.)_
+**Submission:** <a href="https://easychair.org/conferences/?conf=mlac26" target="_blank" rel="noopener noreferrer">EasyChair</a>
 
 ---
 
@@ -39,7 +39,7 @@ show_sidebar: true
 
 **Read more here:** <a href="https://lacs-workshop.github.io" target="_blank" rel="noopener noreferrer">1st LACS (Learning-Augmented Compilers & Systems)</a>
 
-**Submission:** [EasyChair](https://easychair.org/account/signin?l=53931730252501093.1778543078.579a9c2a)
+**Submission:** <a href="https://easychair.org/account/signin?l=53931730252501093.1778543078.579a9c2a" target="_blank" rel="noopener noreferrer">EasyChair</a>
 
 ---
 
