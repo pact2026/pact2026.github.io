@@ -43,7 +43,7 @@ show_sidebar: true
 
 ---
 
-### 1st National Science Data Fabric Workshop
+### 1st National Science Data Fabric Summit
 
 **Scheduling:** Monday, October 19 (all day)
 
@@ -52,7 +52,7 @@ show_sidebar: true
 - [Michela Taufer](https://globalcomputing.group/about.html), University of Tennessee, Knoxville
 - [Valerio Pascucci](https://www.cs.utah.edu/pascucci-valerio/), University of Utah
 
-**Read more here:** <a href="/workshops/national-science-data-fabric-workshop/" target="_blank" rel="noopener noreferrer">1st National Science Data Fabric Workshop</a>
+**Read more here:** <a href="https://nationalsciencedatafabric.org/nsdf-summit26" target="_blank" rel="noopener noreferrer">1st National Science Data Fabric Summit</a>
 
 **Submission:** _Coming Soon_
 
