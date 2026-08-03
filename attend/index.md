@@ -59,19 +59,17 @@ Nearby parking options include:
 - W Chicago – City Center — 172 W. Adams, Chicago, IL 60603 — (312) 332-1200
 - Club Quarters, Central Loop — 111 W. Adams, Chicago, IL 60603 — (312) 214-6400
 
-_PACT 2026 hotel blocks and booking details will be posted here when available._
+_The PACT 2026 conference does not have a hotel block reserved for attendees. Please refer to the list of hotels above for your accommodation._
 
 ---
 
 ## Conference registration
 
-Registration for PACT 2026 will be announced on the conference website.
-
-If you want to register for both the conference and the workshops/tutorials, first select the conference registration. On the following page it will then be possible to add workshops/tutorials.
+Registration for PACT 2026 conference and/or any of this worshops/tutorials here <a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary</a>
 
 ### Registration rates
 
-Registration rates and deadlines will be posted here when available.
+Registration rates and deadlines are available here <a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/websitePage:f5f1940b-980e-4398-96f6-3b681ef5e4a3" target="_blank">https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/websitePage:f5f1940b-980e-4398-96f6-3b681ef5e4a3</a>
 
 ---
 
