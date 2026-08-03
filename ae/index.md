@@ -10,7 +10,7 @@ show_sidebar: true
 
 _This page is based on the [submission guidelines for artifact evaluation set by ML Commons](https://github.com/ctuning/artifact-evaluation/blob/master/docs/submission.md)._
 
-_Submission site: **Coming Soon!**_
+Submission site: [https://pact26ae.hotcrp.com/](https://pact26ae.hotcrp.com/)
 
 PACT 2026 will conduct artifact evaluation (AE) this year. AE has become a common practice in the systems and architecture community (OSDI, PLDI, PACT, ISCA, MICRO, MLSys, HPCA, ASPLOS). We invite the authors of accepted PACT 2026 papers to submit their artifacts for assessment under the ACM Artifact Review and Badging policy. Note that this submission is voluntary and will not influence the final decision regarding the papers.
 
@@ -19,7 +19,7 @@ PACT 2026's artifact evaluation process will follow the [guidelines for artifact
 Interested in joining the AE committee? Self-nominate by July 24, here: [ https://forms.gle/M6ftRqHbzPexkZzk9](https://forms.gle/M6ftRqHbzPexkZzk9)
 
 **Artifact registrations are due by August 3rd, 2026.**  
-**Full artifact submissions are due by August 10, 2026.**
+**Full artifact submissions are due by August 10th, 2026.**
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Authors can apply for, and be awarded, one of following three [ACM artifact evaluation badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
 
