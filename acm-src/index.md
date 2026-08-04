@@ -66,7 +66,7 @@ Submit your work using the specified format:
 - Limit to **2 pages**, excluding references.
 - Ensure **anonymity** in the PDF (**double-blind submission**).
 
-Submit your extended abstract at: **\[SRC submission link to be posted\]**
+Submit your extended abstract at: <a href="https://easychair.org/conferences/?conf=acmsrc26p" target="_blank">https://easychair.org/conferences/?conf=acmsrc26p</a>
 
 ---
 
