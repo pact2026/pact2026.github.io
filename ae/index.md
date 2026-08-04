@@ -18,7 +18,7 @@ PACT 2026's artifact evaluation process will follow the [guidelines for artifact
 
 Interested in joining the AE committee? Self-nominate by July 24, here: [ https://forms.gle/M6ftRqHbzPexkZzk9](https://forms.gle/M6ftRqHbzPexkZzk9)
 
-**Artifact registrations are due by August 3rd, 2026.**  
+**Artifact registrations open between August 3 - 10, 2026 (AoE).**
 **Full artifact submissions are due by August 10th, 2026.**
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/ctuning/artifact-evaluation/blob/master/docs/checklist.md) and submit it to the [single-blind AE process](https://github.com/ctuning/artifact-evaluation/blob/master/docs/reviewing.md). Authors can apply for, and be awarded, one of following three [ACM artifact evaluation badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current).

@@ -144,7 +144,7 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 - **Paper Submission Deadline:** April 24, 2026 (extended to April 30, 2026)
 - **Rebuttal Period:** July 12-16, 2026 (changed to July 19-23, 2026)
 - **Author Notification:** August 5, 2026
-- **Artifact Submission:** August 10, 2026
+- **Artifact Submission:** August 3-10, 2026
 - **Camera-Ready Deadline:** October 2, 2026
 
 All deadlines are **firm at midnight anywhere on Earth (AoE)**.
