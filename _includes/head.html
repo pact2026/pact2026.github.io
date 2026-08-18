@@ -42,6 +42,117 @@
     .sidebar-img img:hover {
       transform: scale(1.1);
     }
+
+    .keynote-card {
+      border: 1px solid #dee2e6;
+      border-top: 4px solid #0d6efd;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      overflow: hidden;
+    }
+
+    .keynote-card.keynote-wed {
+      border-top-color: #198754;
+    }
+
+    .keynote-card.keynote-thu {
+      border-top-color: #6f42c1;
+    }
+
+    .keynote-card::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .keynote-card .keynote-photo {
+      float: left;
+      margin: 0 1.5rem 1rem 0;
+      border-radius: 8px;
+      border: 2px solid #dee2e6;
+      width: 180px;
+      height: auto;
+    }
+
+    .keynote-card .keynote-date {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #fff;
+      background: #0d6efd;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      margin-bottom: 0.75rem;
+    }
+
+    .keynote-card.keynote-wed .keynote-date {
+      background: #198754;
+    }
+
+    .keynote-card.keynote-thu .keynote-date {
+      background: #6f42c1;
+    }
+
+    .keynote-card .keynote-title {
+      font-size: 1.35rem;
+      font-weight: 700;
+      margin: 0 0 0.25rem 0;
+    }
+
+    .keynote-card .keynote-speaker {
+      font-size: 1.05rem;
+      font-style: italic;
+      color: #495057;
+      margin: 0 0 0.25rem 0;
+    }
+
+    .keynote-card .keynote-affiliation {
+      font-size: 0.92rem;
+      color: #6c757d;
+      margin: 0 0 1rem 0;
+      line-height: 1.5;
+    }
+
+    .keynote-card .keynote-affiliation a {
+      color: #6c757d;
+      text-decoration: underline;
+    }
+
+    .keynote-card .keynote-abstract {
+      line-height: 1.7;
+      color: #212529;
+    }
+
+    .keynote-card .keynote-abstract p {
+      margin-bottom: 0.75rem;
+    }
+
+    .keynote-card .keynote-bio {
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e9ecef;
+    }
+
+    .keynote-card .keynote-bio h4 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #6c757d;
+      margin-bottom: 0.5rem;
+    }
+
+    @media (max-width: 768px) {
+      .keynote-card .keynote-photo {
+        float: none;
+        display: block;
+        margin: 0 auto 1rem auto;
+      }
+    }
   </style>
 
   <title>
