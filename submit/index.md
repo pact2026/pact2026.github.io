@@ -134,7 +134,6 @@ We encourage authors to use open-source frameworks such as [Docker](https://www.
 ### **Camera-Ready Instructions**
 
 - **Page Limit:** The final version must not exceed **11 pages**, with an **optional 2-page Artifact Appendix**.
-- **Extra Pages:** Up to **2 additional pages** may be purchased for **$200 per page**.
 
 ---
 
