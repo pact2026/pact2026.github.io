@@ -91,16 +91,16 @@ show_sidebar: true
 
 ---
 
-### Chameleon: An Experimental Testbed for Parallel, Heterogeneous, and AI-Accelerated
+### Chameleon: An Open Platform for Computer Science Experimentation
 
 **Scheduling:** Monday, October 19 (afternoon)
 
 **Tutorial Presenters:**
 
 - Kate Keahey, Argonne National Laboratory / University of Chicago
-- Marc Richardson, University of Chicago
+- Mark Powers, University of Chicago
 
-**Read more here:** <a href="/workshops/chameleon-tutorial/" target="_blank" rel="noopener noreferrer">Chameleon: An Experimental Testbed for Parallel, Heterogeneous, and AI-Accelerated</a>
+**Read more here:** <a href="/workshops/chameleon-tutorial/" target="_blank" rel="noopener noreferrer">Chameleon: An Open Platform for Computer Science Experimentation</a>
 
 ---
 

@@ -60,8 +60,8 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
     <tr>
         <td><b>Afternoon</b></td>
         <td>
-            <b>Tutorial:</b> <a href="https://lacs-workshop.github.io/" target="_blank"> Chameleon: An Experimental Testbed for Parallel, Heterogeneous, and AI-Accelerated Computing</a>. <br>
-            Presenters: Kate Keahey, Marc Richardson.
+            <b>Tutorial:</b> <a href="https://lacs-workshop.github.io/" target="_blank"> Chameleon: An Open Platform for Computer Science Experimentation</a>. <br>
+            Presenters: Kate Keahey, Mark Powers.
         </td>
     </tr>
     <tr>
