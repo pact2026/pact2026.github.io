@@ -60,14 +60,14 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
     <tr>
         <td><b>Afternoon</b></td>
         <td>
-            <b>Tutorial:</b> <a href="https://lacs-workshop.github.io/" target="_blank"> Chameleon: An Open Platform for Computer Science Experimentation</a>. <br>
+            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank"> Chameleon: An Open Platform for Computer Science Experimentation</a>. <br>
             Presenters: Kate Keahey, Mark Powers.
         </td>
     </tr>
     <tr>
         <td><b>Afternoon</b></td>
         <td>
-            <b>Tutorial:</b> <a href="https://lacs-workshop.github.io/" target="_blank"> Reproducible Benchmarking for High-Performance Computing Applications</a>. <br>
+            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank"> Reproducible Benchmarking for High-Performance Computing Applications</a>. <br>
             Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink
         </td>
     </tr>
