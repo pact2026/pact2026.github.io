@@ -63,7 +63,7 @@ Submit your work using the specified format:
 
 - Use the **acmart** template:  
   `\documentclass[sigconf,nonacm,screen,review]{acmart}`
-- Limit to **2 pages**, excluding references.
+- Limit to **2 pages**, including references.
 - Ensure **anonymity** in the PDF (**double-blind submission**).
 
 Submit your extended abstract at: <a href="https://easychair.org/conferences/?conf=acmsrc26p" target="_blank">https://easychair.org/conferences/?conf=acmsrc26p</a>
