@@ -199,3 +199,19 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
     <p>Mary Hall is a Professor and former Director of the Kahlert School of Computing at University of Utah. Her research focuses on high-performance computing, compiler optimizations and code generation for novel and emerging hardware, and performance tuning. She has served on the Board of Directors of the Computing Research Association since 2015, and she is currently its Vice Chair. She is an ACM Distinguished Scientist and an IEEE Fellow.</p>
   </div>
 </div>
+
+<div class="keynote-card keynote-thu">
+  <img class="keynote-photo" src="/images/people/sury.png" alt="Samantika Sury" />
+  <span class="keynote-date">Thursday, October 22, 2026</span>
+  <h2 class="keynote-title"><a name="keynote4">Tightly Coupled Customizability: Enabling the Next Generation of AI-HPC Systems</a></h2>
+  <p class="keynote-speaker">Samantika Sury</p>
+  <p class="keynote-affiliation">Fellow and Chief Hardware Architect<br>HPE - HPC and AI Infrastructure Solutions</p>
+  <div class="keynote-abstract">
+    <p>The end of Moore's Law scaling and the rapid rise of AI are driving a fundamental shift in computer architecture, accelerating the adoption of purpose-built technologies across compute, memory, networking, and storage. At the same time, scientific computing is moving beyond isolated applications toward tightly integrated workflows that combine simulation, data analytics, learning, inference, and increasingly agentic forms of execution. Together, these changes are reshaping how systems are designed and where performance bottlenecks emerge.</p>
+    <p>Next-generation AI-HPC systems will depend on tightly coupled and customizable architectures that bring specialized resources together around the needs of complete workflows rather than individual applications. This keynote explores architectural directions including workflow-centric optimization, flexible scale-up and scale-out fabrics, and macroheterogeneity. It will examine the trends driving these changes, the challenges they introduce, and the opportunities they create as the community moves toward more integrated, adaptable, and workload-aware AI-HPC systems.</p>
+  </div>
+  <div class="keynote-bio">
+    <h4>Bio</h4>
+    <p>Samantika Sury serves as an HPE Fellow, Vice President, and Chief Hardware Architect for HPC and AI Infrastructure Solutions. She leads the Future Technologies team, which focuses on advancing hardware and software system innovations. Samantika has previously held prominent roles at Samsung, where she served as Vice President and Chief Hardware Architect for HPC. She has also worked at Intel® as a Senior Principal Engineer, driving silicon and system architecture innovations into marketable products, served as the Chief Architect of Intel's HPC-Custom Silicon Program and was the Principal Investigator and Lead Architect for the DOE PathForward Program. Samantika holds 31 U.S. and international patents, has published more than 20 peer-reviewed papers, and has delivered numerous invited talks. She was recognized in HPCWire People to Watch 2026. Samantika earned her Ph.D. in Computer Science from the Georgia Institute of Technology.</p>
+  </div>
+</div>
