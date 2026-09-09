@@ -185,25 +185,10 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
   </div>
 </div>
 
-<div class="keynote-card keynote-thu">
-  <img class="keynote-photo" src="/images/people/hall.jpg" alt="Mary Hall" />
-  <span class="keynote-date">Thursday, October 22, 2026</span>
-  <h2 class="keynote-title"><a name="keynote3">Tiles, Bricks, and Layouts: How Aggregate Data Abstractions Aid in Optimizing Data Movement</a></h2>
-  <p class="keynote-speaker">Mary Hall</p>
-  <p class="keynote-affiliation">Professor, Kahlert School of Computing, University of Utah</p>
-  <div class="keynote-abstract">
-    <p>Data movement is the dominant execution and energy cost across the application workloads in data centers and supercomputers. Programming at the tile level has become a popular strategy for optimizing data movement for both deep learning and general structured grids, using Triton, cuTile, bricks, and fine-grained data blocks. Expressing hierarchical data and thread layouts, mostly designed with matrix processors in mind, facilitates automatic code generation that further raises the level of abstraction in such code. In this talk, we will describe prior work on BrickLib supporting fine-grained data blocks and active research on LEGO for hierarchical data and thread layout. We will connect these concepts with emerging hardware features and future demands on programming systems to reduce data movement.</p>
-  </div>
-  <div class="keynote-bio">
-    <h4>Bio</h4>
-    <p>Mary Hall is a Professor and former Director of the Kahlert School of Computing at University of Utah. Her research focuses on high-performance computing, compiler optimizations and code generation for novel and emerging hardware, and performance tuning. She has served on the Board of Directors of the Computing Research Association since 2015, and she is currently its Vice Chair. She is an ACM Distinguished Scientist and an IEEE Fellow.</p>
-  </div>
-</div>
-
-<div class="keynote-card keynote-thu">
+<div class="keynote-card keynote-wed">
   <img class="keynote-photo" src="/images/people/sury.png" alt="Samantika Sury" />
-  <span class="keynote-date">Thursday, October 22, 2026</span>
-  <h2 class="keynote-title"><a name="keynote4">Tightly Coupled Customizability: Enabling the Next Generation of AI-HPC Systems</a></h2>
+  <span class="keynote-date">Wednesday, October 21, 2026</span>
+  <h2 class="keynote-title"><a name="keynote3">Tightly Coupled Customizability: Enabling the Next Generation of AI-HPC Systems</a></h2>
   <p class="keynote-speaker">Samantika Sury</p>
   <p class="keynote-affiliation">Fellow and Chief Hardware Architect<br>HPE - HPC and AI Infrastructure Solutions</p>
   <div class="keynote-abstract">
@@ -215,6 +200,22 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
     <p>Samantika Sury serves as an HPE Fellow, Vice President, and Chief Hardware Architect for HPC and AI Infrastructure Solutions. She leads the Future Technologies team, which focuses on advancing hardware and software system innovations. Samantika has previously held prominent roles at Samsung, where she served as Vice President and Chief Hardware Architect for HPC. She has also worked at Intel® as a Senior Principal Engineer, driving silicon and system architecture innovations into marketable products, served as the Chief Architect of Intel's HPC-Custom Silicon Program and was the Principal Investigator and Lead Architect for the DOE PathForward Program. Samantika holds 31 U.S. and international patents, has published more than 20 peer-reviewed papers, and has delivered numerous invited talks. She was recognized in HPCWire People to Watch 2026. Samantika earned her Ph.D. in Computer Science from the Georgia Institute of Technology.</p>
   </div>
 </div>
+
+<div class="keynote-card keynote-thu">
+  <img class="keynote-photo" src="/images/people/hall.jpg" alt="Mary Hall" />
+  <span class="keynote-date">Thursday, October 22, 2026</span>
+  <h2 class="keynote-title"><a name="keynote4">Tiles, Bricks, and Layouts: How Aggregate Data Abstractions Aid in Optimizing Data Movement</a></h2>
+  <p class="keynote-speaker">Mary Hall</p>
+  <p class="keynote-affiliation">Professor, Kahlert School of Computing, University of Utah</p>
+  <div class="keynote-abstract">
+    <p>Data movement is the dominant execution and energy cost across the application workloads in data centers and supercomputers. Programming at the tile level has become a popular strategy for optimizing data movement for both deep learning and general structured grids, using Triton, cuTile, bricks, and fine-grained data blocks. Expressing hierarchical data and thread layouts, mostly designed with matrix processors in mind, facilitates automatic code generation that further raises the level of abstraction in such code. In this talk, we will describe prior work on BrickLib supporting fine-grained data blocks and active research on LEGO for hierarchical data and thread layout. We will connect these concepts with emerging hardware features and future demands on programming systems to reduce data movement.</p>
+  </div>
+  <div class="keynote-bio">
+    <h4>Bio</h4>
+    <p>Mary Hall is a Professor and former Director of the Kahlert School of Computing at University of Utah. Her research focuses on high-performance computing, compiler optimizations and code generation for novel and emerging hardware, and performance tuning. She has served on the Board of Directors of the Computing Research Association since 2015, and she is currently its Vice Chair. She is an ACM Distinguished Scientist and an IEEE Fellow.</p>
+  </div>
+</div>
+
 <h1>Papers</h1>
 
 <table class="table table-striped">
