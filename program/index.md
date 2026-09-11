@@ -304,7 +304,7 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
         <td>Naveen Namashivayam Ravichandrasekaran (University of Minnesota); Nathan Wichmann (Hewlett Packard Enterprise); Pen-Chung Yew (University of Minnesota)</td>
     </tr>
     <tr>
-        <td><b>Extending HLS with a Hardware Stream-Permutation Language: A Case Study on Streaming FFT Generation</b></td>
+        <td><b>Stream Swizzling: Extending HLS for Efficient Non-Affine Stream Permutations</b></td>
         <td>Chengyue Wang (UCLA); JONATHAN XUE (UCLA); LANCE GIANG (UCLA); SHINJU JU (UCLA); Yingquan Wu (MBZU AI Lab); Jason Cong (UCLA)</td>
     </tr>
     <tr>
