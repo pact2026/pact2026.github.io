@@ -482,10 +482,6 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
         <td>Befikir Bogale (University of Tennessee, United States)</td>
     </tr>
     <tr>
-        <td><b>RoReKV: Adaptive KV Cache Compression for Efficient Reasoning Model Serving</b></td>
-        <td>Payman Behnam (Georgia Tech, United States)</td>
-    </tr>
-    <tr>
         <td><b>Software-Controlled GB-Scale 3D-SRAM Residency for GPUs</b></td>
         <td>Eric Dubberstein (Carnegie Mellon University, United States)</td>
     </tr>
