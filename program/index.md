@@ -656,7 +656,7 @@ layout: page_fullwidth
         <td>Jonghyun Shin (Seoul National University); Dongmyong Shin (Seoul National University); Jeongnam Youn (Suwon Science College); Dae-Hwan Kim (Seoul National University); Soojung Ryu (Seoul National University); Xuan Truong Nguyen (Seoul National University); Hyuk-Jae Lee (Seoul National University)</td>
     </tr>
     <tr>
-        <td><b>Accelerating Performance Modeling and Autotuning via Diffusion-Based Synthetic Data Generation</b></td>
+        <td><b>Diffusion-Based Data Augmentation for Multi-Label Performance Modeling</b></td>
         <td>Mohammad Ali (Texas State University); Apan Qasem (Texas State University)</td>
     </tr>
     <tr>
