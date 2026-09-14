@@ -2,9 +2,10 @@
 title: PACT 2026 Technical program
 description: Preliminary program
 id: program
-layout: page_sidebar
-show_sidebar: true
+layout: page_fullwidth
 ---
+
+{% include sponsors.html compact=true %}
 
 # Program at a Glance
 
@@ -15,137 +16,338 @@ show_sidebar: true
 
 ## Monday, October 19, 2026 <a id="wt-day1"></a>
 
-Workshops and tutorials day. Rooms and detailed times are coming soon unless noted below.
-
-<table class="table table-striped">
+<div class="table-responsive">
+<table class="table">
     <thead>
-        <th>Time</th>
-        <th>What</th>
+        <th style="width: 10%">Time</th>
+        <th style="width: 15%">Program</th>
+        <th style="width: 25%">Discovery Room</th>
+        <th style="width: 25%">Classroom A</th>
+        <th style="width: 25%">Classroom C</th>
     </thead>
-    <tr>
-        <td><b>Morning</b></td>
-        <td>
-            <b>Workshop:</b> <a href="https://sites.google.com/view/mlac26/home" target="_blank">1st Workshop on ML for Assisting Code Quality (MLAC)</a>. <br>
-            Chair: Jay Lofstead, Sandia National Laboratories.
-        </td>
-    </tr>   
-    <tr>
-        <td><b>Morning</b></td>
-        <td>
-            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank"> CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>. <br>
-            Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.
-        </td>
-    </tr>   
-    <tr>
-        <td><b>Morning</b></td>
-        <td>
-            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/soda-synthesizer-tutorial/" target="_blank"> SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</a>. <br>
-            Presenters: Nicolas Bohm Agostini, Vito Giovanni Castellana, Fabrizio Ferrandi, Serena Curzel, Ankur Limaye, Antonino Tumeo.
-        </td>
-    </tr>   
-    <tr>
-        <td><b>All day</b></td>
-        <td>
-            <b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/" target="_blank"> 1st National Science Data Fabric Summit</a>. <br>
-            Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.
-        </td>
+    <tr style="background-color: #d9e2f3">
+        <td style="white-space: nowrap"><b>8:00–9:00 AM</b></td>
+        <td><b>Registration</b></td>
+        <td colspan="3">Registration / Check-in</td>
     </tr>
     <tr>
-        <td><b>Afternoon</b></td>
-        <td>
-            <b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank"> 1st LACS — Learning-Augmented Compilers & Systems</a>. <br>
-            Organizers: Eun Jung (EJ) Park, Riyadh Baghdadi, Joseph Manzano, Keren Zhou.        
-        </td>
+        <td style="white-space: nowrap"><b>9:00–10:00 AM</b></td>
+        <td><b>Workshops &amp; Tutorials — Morning I</b></td>
+        <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
+        <td><b>Tutorial:</b> <a href="https://hpc.pnl.gov/SODA/tutorials/2025/PACT25.html" target="_blank">SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</a>.<br>Presenters: Nicolas Bohm Agostini, Vito Giovanni Castellana, Fabrizio Ferrandi, Serena Curzel, Ankur Limaye, Antonino Tumeo.</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>10:00–10:30 AM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+        <td colspan="2"></td>
     </tr>
     <tr>
-        <td><b>Afternoon</b></td>
-        <td>
-            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank"> Chameleon: An Open Platform for Computer Science Experimentation</a>. <br>
-            Presenters: Kate Keahey, Mark Powers.
-        </td>
+        <td><b>10:30 AM–12:00 PM</b></td>
+        <td><b>Workshops &amp; Tutorials — Morning II</b></td>
+        <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
+        <td><b>Tutorial:</b> <a href="https://hpc.pnl.gov/SODA/tutorials/2025/PACT25.html" target="_blank">SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</a>.<br>Presenters: Nicolas Bohm Agostini, Vito Giovanni Castellana, Fabrizio Ferrandi, Serena Curzel, Ankur Limaye, Antonino Tumeo.</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>12:00–1:30 PM</b></td>
+        <td><b>Lunch</b></td>
+        <td>Lunch</td>
+        <td colspan="2"></td>
     </tr>
     <tr>
-        <td><b>Afternoon</b></td>
-        <td>
-            <b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank"> Reproducible Benchmarking for High-Performance Computing Applications</a>. <br>
-            Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink
-        </td>
+        <td style="white-space: nowrap"><b>1:30–3:00 PM</b></td>
+        <td><b>Workshops &amp; Tutorials — Afternoon I</b></td>
+        <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>3:00–3:30 PM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+        <td colspan="2"></td>
     </tr>
     <tr>
-        <td><b>5:00pm-6:00pm</b></td>
-        <td>Conference reception.</td>
+        <td style="white-space: nowrap"><b>3:30–5:00 PM</b></td>
+        <td><b>Workshops &amp; Tutorials — Afternoon II</b></td>
+        <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
+    </tr>
+    <tr style="background-color: #eaf2f8">
+        <td style="white-space: nowrap"><b>5:00–6:00 PM</b></td>
+        <td><b>PACT 2026 Welcome Reception</b></td>
+        <td colspan="3">Supported by (<a href="https://nationalsciencedatafabric.org/" target="_blank">NSDF</a>)</td>
     </tr>
 </table>
+</div>
 
 ## Tuesday, October 20, 2026 <a id="conf-day1"></a>
 
-<table class="table table-striped">
+<div class="table-responsive">
+<table class="table">
     <thead>
-        <th>Time</th>
-        <th>What</th>
+        <th style="width: 12%">Time</th>
+        <th style="width: 20%">Program</th>
+        <th style="width: 68%">Discovery Room</th>
     </thead>
+    <tr style="background-color: #d9e2f3">
+        <td style="white-space: nowrap"><b>8:00–9:00 AM</b></td>
+        <td><b>Registration</b></td>
+        <td>Registration / Check-in</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>9:00–9:30 AM</b></td>
+        <td><b>PACT 2026 Welcome &amp; Opening Remarks</b></td>
+        <td>Plenary — Discovery Room</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>9:30–10:30 AM</b></td>
+        <td><b>Keynote — <a href="#keynote1">Andrew A. Chien</a></b></td>
+        <td>Plenary — Discovery Room. Chair: Michela Taufer, University of Tennessee Knoxville</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>10:30–11:00 AM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>11:00 AM–12:30 PM</b></td>
+        <td><b>Best Paper Candidates — Plenary Session</b><br>Chair: Jaejin Lee, Seoul National University</td>
+        <td></td>
+    </tr>
     <tr>
-        <td><b>Morning</b></td>
-        <td> Opening, keynote, and technical sessions: Coming soon. </td>
-    </tr>   
+        <td style="white-space: nowrap"><b>11:00–11:30 AM</b></td>
+        <td></td>
+        <td><b>#289: Hoppolyta: Polyhedral Kernel Generation Meets Hopper Architecture</b><br>Aravind Acharya; Somashekaracharya G Bhaskaracharya; Evghenii Gaburov; Bin Fan; Alexander Collins; Bastian Hagedorn; Vinod Grover</td>
+    </tr>
     <tr>
-        <td><b>Midday</b></td>
-        <td> Lunch/break: Coming soon. </td>
-    </tr>   
+        <td style="white-space: nowrap"><b>11:30 AM–12:00 PM</b></td>
+        <td></td>
+        <td><b>#344: SALT: Symbolic Analysis of Loop Tiling</b><br>Yanghui Wu; Yifan Zhu; Yekai Pan; Chen Ding</td>
+    </tr>
     <tr>
-        <td><b>Afternoon</b></td>
-        <td> Technical sessions: Coming soon. </td>
-    </tr>   
-    <tr>
-        <td><b>Evening</b></td>
-        <td> 
-            <a href="https://pact2026.github.io/acm-src/" target="_blank">Poster presentation and ACM Student Research Competition</a>. <br> 
-            <b>Time</b> and room: Coming soon.
-        </td>
+        <td style="white-space: nowrap"><b>12:00–12:30 PM</b></td>
+        <td></td>
+        <td><b>#130: ESA: Improving GPU Utilization with Elastic Isolation for ML Inference Services</b><br>Taeklim Kim; Saurabh Agarwal; Rachata Ausavarungnirun; Jayneel Gandhi; Christopher J. Rossbach</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>12:30–2:00 PM</b></td>
+        <td><b>Lunch</b></td>
+        <td>Lunch</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>2:00–3:00 PM</b></td>
+        <td><b><a href="#panel1">PACT 2026 Panel — Plenary</a></b></td>
+        <td><b>Who Gets to Do Computing Research in 2036?</b><br>Panelists:<br>Eun Jung (EJ) Park — Qualcomm Innovation Center<br>Valerio Pascucci — University of Utah<br>Hariharan Devarajan — Lawrence Livermore National Laboratory<br>Tanu Malik — University of Missouri, Columbia<br>Lawrence Rauchwerger — UIUC<br>Moderator: Michela Taufer — University of Tennessee, Knoxville</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>3:00–3:30 PM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>3:30–5:00 PM</b></td>
+        <td><b><a href="#research-posters">Poster Lightning Presentations</a></b></td>
+        <td>27 posters: 15 Research Posters + 12 ACM SRC Posters<br>Presentations up to 3 minutes each. Chair: Jay Lofstead, Sandia National Laboratories</td>
+    </tr>
+    <tr style="background-color: #eaf2f8">
+        <td style="white-space: nowrap"><b>5:00–6:00 PM</b></td>
+        <td><b>PACT Poster &amp; ACM SRC Reception</b></td>
+        <td>Discovery Room</td>
     </tr>
 </table>
+</div>
 
 ## Wednesday, October 21, 2026 <a id="conf-day2"></a>
 
-<table class="table table-striped">
+<div class="table-responsive">
+<table class="table">
     <thead>
-        <th>Time</th>
-        <th>What</th>
+        <th style="width: 10%">Time</th>
+        <th style="width: 15%">Program</th>
+        <th style="width: 25%">Discovery Room</th>
+        <th style="width: 25%">Classroom A</th>
+        <th style="width: 25%">Classroom C</th>
     </thead>
-    <tr>
-        <td><b>Morning</b></td>
-        <td> Keynote and technical sessions: Coming soon. </td>
-    </tr>   
-    <tr>
-        <td><b>Midday</b></td>
-        <td> Lunch/break: Coming soon </td>
-    </tr>   
-    <tr>
-        <td><b>Afternoon</b></td>
-        <td> Technical sessions: Coming soon. </td>
-    </tr>   
-    <tr>
-        <td><b>Evening</b></td>
-        <td> Conference banquet. Location to be defined.</td>
+    <tr style="background-color: #d9e2f3">
+        <td style="white-space: nowrap"><b>8:00–9:00 AM</b></td>
+        <td><b>Registration</b></td>
+        <td colspan="3">Registration / Check-in</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>9:00–10:00 AM</b></td>
+        <td><b>Keynote — <a href="#keynote2">Josep Torrellas</a></b></td>
+        <td colspan="3">Plenary — Discovery Room. Chair: Jaejin Lee, Seoul National University</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>10:00–10:30 AM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td style="white-space: nowrap" rowspan="5"><b>10:30 AM–12:00 PM</b></td>
+        <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 1–3 — Parallel</b></td>
+        <td><b>Session 1 — Compiler Techniques for Dataflow and Accelerator Systems</b><br>Chair: To be announced</td>
+        <td><b>Session 2 — Processing-in-Memory for Large-Scale AI</b><br>Chair: To be announced</td>
+        <td><b>Session 3 — Compilation and Execution for Heterogeneous Architectures</b><br>Chair: To be announced</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 1 — #154: Stream Swizzling: Extending HLS for Efficient Non-Affine Stream Permutations</b><br>Chengyue Wang; Jason Cong; Jonathan Xue; Shinju Ju; Yingquan Wu</td>
+        <td><b>Talk 1 — #5: PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies</b><br>Byeongho Kim; Hyeonsu Kim; Jaehoon Yu; Kyomin Sohn; Sanghoon Cha; Seungwon Lee; Seungwoo Seo; Sukhan Lee; Sunjung Lee; Yongjun Park; Yuhwan Ro</td>
+        <td><b>Talk 1 — #56: AIEHalide: Compiling Halide to Spatial NPU Dataflow with Constrained Autoscheduling</b><br>Abnikant Singh; Suresh Purini</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 2 — #188: Splyce: SIMD Vectorization of Sparse Coiteration</b><br>Kabilan Mahathevan; Kirshanthan Sundararajah; Poorna Gunathilaka</td>
+        <td><b>Talk 2 — #87: PDiMC: Achieving High-Throughput LLM Inference and Resolving Memory Concurrency via an Efficient PIM Subsystem</b><br>Byeongho Kim; Hweesoo Kim; Jaewan Choi; Kyomin Sohn; Sukhan Lee; Wontak Han; Yoonah Paik</td>
+        <td><b>Talk 2 — #127: FIFO Initialization: Efficient Support for Serial Loops on Spatial Elastic CGRAs</b><br>Eric Xu; Tarek Abdelrahman</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Jason Cong; Stéphane Pouget; Suhail Basalama</td>
+        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Jaehyuk Huh; Juhyun Lee; Sanghyeon Lee; Soojin Hwang</td>
+        <td><b>Talk 3 — #265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</b><br>Marc Gonzalez Tallada</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 4 — #409: Practical Correctness and Equivalence Checking for MLIR</b><br>Emily Tucker; Erika Hunhoff; Erwei Wang; Louis-Noel Pouchet; Stephen Neuendorffer</td>
+        <td><b>Talk 4 — #377: ASTRA-MoE: GPU-Augmenting In-Storage Acceleration for Long-Context Mixture-of-Expert Inference</b><br>Hyeonggyu Jeong; Inyoung Song; Jinwoo Jeong; Jungwook Choi; Kyungmo Koo; Yongho Song</td>
+        <td><b>Talk 4 — #364: Partial Instruction Execution on Long SIMD Architectures</b><br>Adrià Armejach; Francesc Martinez; Marc Casas</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>12:00–1:30 PM</b></td>
+        <td><b>Lunch</b></td>
+        <td>Lunch</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td style="white-space: nowrap" rowspan="5"><b>1:30–3:00 PM</b></td>
+        <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 4–6 — Parallel</b></td>
+        <td><b>Session 4 — Memory Hierarchies and Processing-in-Memory</b><br>Chair: To be announced</td>
+        <td><b>Session 5 — Memory, Communication, and System-Level Data Movement</b><br>Chair: To be announced</td>
+        <td><b>Session 6 — Accelerating AI Across GPUs and Mobile Systems</b><br>Chair: To be announced</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 1 — #34: DREAM: In-DRAM Bit-Serial PIM with Data Reuse and Efficient Mapping</b><br>Aman Arora; Jeeho Ryoo; Jiajun Hu; Lizy K. John; Siddhartha Raman Sundara Raman; Siyuan Ma</td>
+        <td><b>Talk 1 — #318: Hermes: Accelerating Page Migration and HPC Data Transfers with NoC-attached Engines</b><br>Adrià Armejach; Francesco Sgherzi; Ivan Vega; Jordi Fornt; Juan Miguel de Haro Ruiz; Marco Siracusa; Miquel Moreto; Pouya Esmaili Dokht</td>
+        <td><b>Talk 1 — #195: Efficient Scheduling Algorithm for Large-scale Models on Heterogeneous Mobile Systems</b><br>Jinyoung Kim; Minseong Kim; Yongjun Park; Yongjun Yongjun</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 2 — #73: SPARQ: Skew-Aware PIM Accelerator for Relational Join and Select Queries</b><br>Anastasia Ailamaki; Sabiha Tajdari; Sandhya Dwarkadas</td>
+        <td><b>Talk 2 — #91: Cordelia: A Huffmanized Merkle Tree for Secure Memory</b><br>Galy Sela; Iris Bahar; Maurice Herlihy; Samuel Thomas; Tali Moreshet</td>
+        <td><b>Talk 2 — #253: PALRAC: Parallel Linear Recurrence Accelerator for Tree-based Speculative Decoding</b><br>Hyuk-Jae Lee; Sangheon Lee; Xuan Truong Nguyen</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 3 — #489: Focus on What Matters: DRAM-CXL Hybrid Memory Management with PRISM</b><br>Daniel Mosse; Fatemeh Golshan</td>
+        <td><b>Talk 3 — #143: A Coordinated Approach to Transactional Data Structures</b><br>Ahmed Hassan; Michael Spear; Yaodong Sheng</td>
+        <td><b>Talk 3 — #26: Split-Posit Systolic Array: A Resource-Efficient Hardware Accelerator for High-Performance AI Workloads</b><br>Arun M; Madhav Rao; Sneha Dandekar; Vaishnavi Sharma</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 4 — #548: ElaCache: Fine-Grain Dynamic Partitioning of LLCs and Coherence Directories in Multiprocessors</b><br>Adam Morrison; Dingyuan Cao; Josep Torrellas; Neil Zhao</td>
+        <td><b>Talk 4 — #21: Proba: A High-Performance, Low-Traffic Probabilistic Spatial Memory Streaming Prefetcher</b><br>Jacky Wong; Sam Ainsworth; Yinting Huang</td>
+        <td><b>Talk 4 — #107: HiNa-MoE: High-Performance, Non-Intrusive MoE Inference on CPUs with Matrix Engines</b><br>Dezun Dong; Enda Yu; Jianbin Fang; Junwen Zhang; Weiling Yang; Zhe Bai</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>3:00–3:30 PM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td style="white-space: nowrap" rowspan="3"><b>3:30–4:15 PM</b></td>
+        <td style="white-space: nowrap" rowspan="3"><b>Technical Sessions 7–8 — Parallel</b></td>
+        <td><b>Session 7 — Compilation for Specialized Computing</b><br>Chair: To be announced</td>
+        <td><b>Session 8 — Efficient ML Serving and Heterogeneous Scheduling</b><br>Chair: To be announced</td>
+        <td rowspan="3"><b>ACM SRC Poster Finalists</b><br>Chair: Jay Lofstead, Sandia National Laboratories<br><br><b>Presenters will be announced on Tuesday, October 20, following the PACT Poster Session and Poster Reception.</b><br><br>Finalists for the ACM Student Research Competition (SRC) will be selected based on the quality of their poster presentations and discussions during the Poster Session. Selected finalists will be invited to present their work in this session.</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 1 — #277: Reducing Address Arithmetic Overheads: New Compiler Techniques for Programmable Dataflow-based AI Accelerators</b><br>Alberto Mannari; Alex Gatea; Bardia Mahjour; Chris Bowler; Masoud Ataei Jaliseh; Nicole Khoun; Prasanth Chatarasi; Shubham Jain; Swagath Venkataramani; Viji Srinivasan; Wei Wang</td>
+        <td><b>Talk 1 — #519: HeteroSched: Co-Optimizing Scheduling and Parallelization for Deep Learning Workloads for Heterogeneous GPU Clusters</b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 2 — #58: Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</b><br>Hengrui Chen; Shui Jiang; Tsung-Wei Huang; Tsung-Yi Ho</td>
+        <td><b>Talk 2 — #633: EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models</b><br>Gagan Agrawal; Hangyu Zheng; Kunxiong Zhu; Miao Yin; Minghai Qin; Wei Niu; Zhihao Shu</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>4:15–5:00 PM</b></td>
+        <td><b>Industry Keynote — <a href="#keynote3">Samantika Sury</a>, HPE</b></td>
+        <td colspan="3">Plenary — Discovery Room. Chair: Antonino Tumeo, PNNL</td>
+    </tr>
+    <tr style="background-color: #eaf2f8">
+        <td style="white-space: nowrap"><b>6:30–10:00 PM</b></td>
+        <td colspan="4"><b>PACT 2026 Banquet — <a href="https://theskydeck.com/" target="_blank">Skydeck Chicago</a><br>PACT Awards presented during the banquet</b></td>
     </tr>
 </table>
+</div>
 
 ## Thursday, October 22, 2026 <a id="conf-day3"></a>
 
-<table class="table table-striped">
+<div class="table-responsive">
+<table class="table">
     <thead>
-        <th>Time</th>
-        <th>What</th>
+        <th style="width: 10%">Time</th>
+        <th style="width: 15%">Program</th>
+        <th style="width: 25%">Discovery Room</th>
+        <th style="width: 25%">Classroom A</th>
+        <th style="width: 25%">Classroom C</th>
     </thead>
+    <tr style="background-color: #d9e2f3">
+        <td style="white-space: nowrap"><b>8:00–9:00 AM</b></td>
+        <td><b>Registration</b></td>
+        <td colspan="3">Registration / Check-in</td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>9:00–10:00 AM</b></td>
+        <td><b>Keynote — <a href="#keynote4">Mary Hall</a></b></td>
+        <td colspan="3">Plenary — Discovery Room. Chair: Tanu Malik, University of Missouri, Columbia</td>
+    </tr>
+    <tr style="background-color: #f2f2f2">
+        <td style="white-space: nowrap"><b>10:00–10:30 AM</b></td>
+        <td><b>Coffee Break</b></td>
+        <td>Coffee Break</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td style="white-space: nowrap" rowspan="5"><b>10:30 AM–12:00 PM</b></td>
+        <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 9–11 — Parallel</b></td>
+        <td><b>Session 9 — GPU Execution and AI Workload Optimization</b><br>Chair: To be announced</td>
+        <td><b>Session 10 — GPU Memory Systems and Data-Intensive Acceleration</b><br>Chair: To be announced</td>
+        <td><b>Session 11 — Performance Optimization, Scheduling, and Communication</b><br>Chair: To be announced</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 1 — #75: Fast Cross-Operator Optimization of Attention Dataflow on Spatial Accelerators</b><br>Bo Yuan; Hailiang Hu; Haodong Chang; Jiang Hu; Rongjian Liang; Yu Gong; Zhenrui Wang; Zhexiang Tang</td>
+        <td><b>Talk 1 — #39: SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting</b><br>Dongho Ha; Hyunwuk Lee; Mingu Jung; Seunghyun Lee; Sungbin Kim; Sungwoo Kim; Won Woo Ro; Yingyan (Celine) Lin</td>
+        <td><b>Talk 1 — #97: Versatile Power Benchmark Generation for Modeling Emerging GPU Workloads and their Power Events</b><br>Allison Seigler; Lizy K. John; Zhixing Jiang</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 2 — #141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
+        <td><b>Talk 2 — #238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
+        <td><b>Talk 2 — #475: HSF: A Hierarchical Scheduling Framework for Application-Tailored Scheduling on Tasking Runtimes</b><br>Antoni Navarro Muñoz; David Álvarez; Vicenç Beltran; Vincent A. Arcila Larrea</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 3 — #327: KerColle: Unlocking Fine-Grained GPU Concurrency in Vision-Language-Action Models</b><br>Anna Li; Christina Giannoula; Nandita Vijaykumar</td>
+        <td><b>Talk 3 — #13: V-PWC: Accelerating Page Table Walk for Multi-Chip-Module GPUs</b><br>Mingxin Tang; Qiong Li; Sen Yang; Wei Chen; Xia Zhao; Xinjin Gao</td>
+        <td><b>Talk 3 — #146: Scalable Asynchronous Aggregation for Many-to-Many Transfers</b><br>Naveen Namashivayam Ravichandrasekaran; Pen-Chung Yew</td>
+    </tr>
+    <tr style="background-color: #e2f0d9">
+        <td><b>Talk 4 — #405: Mask-Aware Execution for Efficient JEPA Training</b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim; Wei Niu; Zhihao Shu</td>
+        <td><b>Talk 4 — #191: GZswap: Hardware-Managed Compressed Swap for GPU Memory Oversubscription</b><br>Boyeol Choi; Jungrae Kim; Sanghyun Hong; Sanghyun Park; Seokin Hong</td>
+        <td><b>Talk 4 — #190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</b><br>Hengrui Luo; Saeyeon Kim; Tirthak Patel; Vedica Rao; Younghyun Cho</td>
+    </tr>
     <tr>
-        <td><b>Morning</b></td>
-        <td> Technical sessions and ACM SRC activities: Coming soon. </td>
-    </tr>   
-    <tr>
-        <td><b>Midday</b></td>
-        <td> Closing session: Coming soon. </td>
-    </tr>   
+        <td style="white-space: nowrap"><b>12:00–12:10 PM</b></td>
+        <td colspan="4"><b>Transition to Discovery Room — Please move to Discovery Room for the conference closing</b></td>
+    </tr>
+    <tr style="background-color: #ddebf7">
+        <td style="white-space: nowrap"><b>12:10–12:20 PM</b></td>
+        <td><b>PACT 2026 Closing Remarks</b></td>
+        <td colspan="3">Discovery Room</td>
+    </tr>
 </table>
+</div>
+
+<p><b>Program notes:</b> All times are Central Time (CT). Session chairs and the poster-reception location will be updated when confirmed. Schedule subject to change.</p>
 
 <p><br /></p>
 
@@ -166,6 +368,19 @@ Workshops and tutorials day. Rooms and detailed times are coming soon unless not
   <div class="keynote-bio">
     <h4>Bio</h4>
     <p>Andrew A Chien is the William Eckhardt Distinguished Service Professor of Computer Science at the University of Chicago and Senior Scientist at Argonne National Laboratories.  Chien led the IARPA funded "UpDown System Project", designing breakthrough scalable graph analytics systems and is now Founder and President of Chicago UpDown Computing, Inc.  (<a href="www.chupdown.com">www.chupdown.com</a>). He has led the Zero-carbon Cloud project since 2015, and is known for his research on datacenters, renewable energy and sustainability, cloud resource management and software, and large-scale system architecture. Chien has received numerous recognitions for research.  Dr. Chien currently serves on the NSF CISE Advisory Committee and DARPA ISAT.  He is a Fellow of the ACM, IEEE, and AAAS.  He served as EiC of Communications of the ACM, 2017-2022, and Vice President of Research at Intel Corporation from 2005-2010.  He served as SAIC Chair Professor of University of California, San Diego  (1998-2005) and as faculty at the University of Illinois (1990-98).  He received BS, MS, and PhD degrees from the Massachusetts Institute of Technology.</p>
+  </div>
+</div>
+
+<div class="keynote-card">
+  <span class="keynote-date">Tuesday, October 20, 2026</span>
+  <h2 class="keynote-title"><a name="panel1">PACT 2026 Panel</a></h2>
+  <p class="keynote-speaker">Who Gets to Do Computing Research in 2036?</p>
+  <p class="keynote-affiliation">Panelists: Eun Jung (EJ) Park — Qualcomm Innovation Center<br>Valerio Pascucci — University of Utah<br>Hariharan Devarajan — Lawrence Livermore National Laboratory<br>Tanu Malik — University of Missouri, Columbia<br>Lawrence Rauchwerger — UIUC<br>Moderator: Michela Taufer — University of Tennessee, Knoxville</p>
+  <div class="keynote-abstract">
+    <p>Computing research is becoming increasingly expensive, complex, and concentrated. Emerging areas such as artificial intelligence and quantum computing often require specialized infrastructure, large datasets, substantial funding, technical staff, and extensive institutional capacity. Ambitious national initiatives such as the Genesis Mission further demonstrate the growing importance of coordinated research across academia, industry, national laboratories, and government. Yet the resources needed to participate in such efforts remain unevenly distributed.</p>
+    <p>Looking toward 2036, where will computing research take place, and who will be able to participate? Will the most consequential research become concentrated within a small number of well-resourced universities, companies, and national laboratories? What roles will smaller academic institutions, emerging companies, and individual researchers play?</p>
+    <p>This panel will bring together perspectives from academia, industry, and national laboratories to examine what counts as computing research, whether funding and infrastructure have become proxies for research excellence, and how institutional resources shape who can contribute. Panelists will discuss how cross-sector partnerships and national initiatives such as Genesis can broaden participation while preserving pathways for small teams, foundational and exploratory work, undergraduate-driven research, and institutions serving diverse students and regions.</p>
+    <p>Ultimately, the panel asks: How can we ensure that computing research in 2036 is shaped by the breadth and quality of its ideas—not only by where researchers work or the resources available to them?</p>
   </div>
 </div>
 
