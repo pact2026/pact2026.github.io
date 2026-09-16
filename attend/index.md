@@ -11,18 +11,18 @@ show_sidebar: true
 ### Venue
 
 PACT 2026 will be held at the<br>
-<a href="https://illinicenter.illinois.edu/" target="_blank">Illini Center (University of Illinois)</a>
+<a href="https://dpi.illinois.edu/" target="_blank">Discovery Partners Institute</a>
 <br>
-200 S. Wacker Drive, 19th Floor<br>
-Chicago, Illinois 60606 USA<br>
+200 S. Wacker<br>
+Chicago, Illinois 60606 4th floor, USA<br>
 Phone: +1 (312) 575-7800<br>
 Email: ICReception@illinois.edu
 
-The Illini Center is across the street from Union Station, two blocks from Ogilvie Transportation Center, and two blocks from the Quincy CTA (Brown Line) stop.
+The Discovery Partners Institute is across the street from Union Station, two blocks from Ogilvie Transportation Center, and two blocks from the Quincy CTA (Brown Line) stop.
 
 ---
 
-### Getting to the Illini Center
+### Getting to the Discovery Partners Institute
 
 #### Public transportation
 
@@ -34,7 +34,7 @@ The Center is convenient for attendees arriving via Union Station (Amtrak/Metra)
 - **From the south:** Take I-90/94 toward downtown, exit near the Loop, and follow signs for Wacker Drive.
 - **From the north:** Take I-90/94 toward downtown, exit near the Loop, and follow signs for Wacker Drive.
 
-_(Tip: Use "Illini Center, 200 S. Wacker Drive, Chicago" in your navigation app.)_
+_(Tip: Use "Discovery Partners Institute, 200 S. Wacker Drive, Chicago" in your navigation app.)_
 
 ---
 
@@ -50,7 +50,7 @@ Nearby parking options include:
 
 ## Hotels
 
-### Nearby hotels (close to the Illini Center)
+### Nearby hotels (close to the Discovery Partners Institute)
 
 - Hyatt Place Chicago — 28 N. Franklin, Chicago, IL 60606 — (312) 955-0950
 - La Quinta Inn & Suites — One South Franklin, Chicago, IL 60606 — (312) 558-1020
@@ -73,7 +73,7 @@ Registration rates and deadlines are available here <a href="https://web.cvent.c
 
 ---
 
-## Travel to Chicago and the Illini Center
+## Travel to Chicago and the Discovery Partners Institute
 
 ### Airports
 
@@ -89,8 +89,8 @@ The two main airports serving Chicago are:
 
 ### Getting from downtown transit hubs to the venue
 
-The Illini Center is across from Union Station and a short walk from Ogilvie Transportation Center, making it easy to reach from Amtrak/Metra trains and downtown CTA connections.
+The Discovery Partners Institute is across from Union Station and a short walk from Ogilvie Transportation Center, making it easy to reach from Amtrak/Metra trains and downtown CTA connections.
 
 ### UI Ride (Urbana-Champaign ↔ Chicago)
 
-If you are traveling between Urbana-Champaign and Chicago, UI Ride runs on weekdays and includes a stop at 200 S. Wacker Drive (Illini Center).
+If you are traveling between Urbana-Champaign and Chicago, UI Ride runs on weekdays and includes a stop at 200 S. Wacker Drive (Discovery Partners Institute).
