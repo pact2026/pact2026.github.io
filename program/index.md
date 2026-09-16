@@ -316,13 +316,13 @@ layout: page_fullwidth
         <td><b>Session 11 — Performance Optimization, Scheduling, and Communication</b><br>Chair: To be announced</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 1 — #75: Fast Cross-Operator Optimization of Attention Dataflow on Spatial Accelerators</b><br>Bo Yuan; Hailiang Hu; Haodong Chang; Jiang Hu; Rongjian Liang; Yu Gong; Zhenrui Wang; Zhexiang Tang</td>
+        <td><b>Talk 1 — #141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
         <td><b>Talk 1 — #39: SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting</b><br>Dongho Ha; Hyunwuk Lee; Mingu Jung; Seunghyun Lee; Sungbin Kim; Sungwoo Kim; Won Woo Ro; Yingyan (Celine) Lin</td>
         <td><b>Talk 1 — #97: Versatile Power Benchmark Generation for Modeling Emerging GPU Workloads and their Power Events</b><br>Allison Seigler; Lizy K. John; Zhixing Jiang</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 2 — #141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
-        <td><b>Talk 2 — #238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
+        <td><b>Talk 2 — #75: Fast Cross-Operator Optimization of Attention Dataflow on Spatial Accelerators</b><br>Bo Yuan; Hailiang Hu; Haodong Chang; Jiang Hu; Rongjian Liang; Yu Gong; Zhenrui Wang; Zhexiang Tang</td>
+        <td><b>Talk 2 — #191: GZswap: Hardware-Managed Compressed Swap for GPU Memory Oversubscription</b><br>Boyeol Choi; Jungrae Kim; Sanghyun Hong; Sanghyun Park; Seokin Hong</td>
         <td><b>Talk 2 — #475: HSF: A Hierarchical Scheduling Framework for Application-Tailored Scheduling on Tasking Runtimes</b><br>Antoni Navarro Muñoz; David Álvarez; Vicenç Beltran; Vincent A. Arcila Larrea</td>
     </tr>
     <tr style="background-color: #e2f0d9">
@@ -332,7 +332,7 @@ layout: page_fullwidth
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 4 — #405: Mask-Aware Execution for Efficient JEPA Training</b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim; Wei Niu; Zhihao Shu</td>
-        <td><b>Talk 4 — #191: GZswap: Hardware-Managed Compressed Swap for GPU Memory Oversubscription</b><br>Boyeol Choi; Jungrae Kim; Sanghyun Hong; Sanghyun Park; Seokin Hong</td>
+        <td><b>Talk 4 — #238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
         <td><b>Talk 4 — #190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</b><br>Hengrui Luo; Saeyeon Kim; Tirthak Patel; Vedica Rao; Younghyun Cho</td>
     </tr>
     <tr>
