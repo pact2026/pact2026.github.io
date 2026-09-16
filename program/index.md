@@ -431,7 +431,7 @@ layout: page_fullwidth
   </div>
 </div>
 
-<h1>Papers</h1>
+<h1 id="papers">Papers</h1>
 
 <table class="table table-striped">
     <thead>
