@@ -64,7 +64,7 @@ layout: page_fullwidth
         <td><b>Workshops &amp; Tutorials — Afternoon I</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
-        <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park; Riyadh Baghdadi; Joseph Manzano; Keren Zhou.</td>
+        <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park, Riyadh Baghdadi, Joseph Manzano, Keren Zhou.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
     </tr>
     <tr style="background-color: #f2f2f2">
@@ -78,7 +78,7 @@ layout: page_fullwidth
         <td><b>Workshops &amp; Tutorials — Afternoon II</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
-        <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park; Riyadh Baghdadi; Joseph Manzano; Keren Zhou.</td>
+        <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park, Riyadh Baghdadi, Joseph Manzano, Keren Zhou.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
     </tr>
     <tr style="background-color: #eaf2f8">
