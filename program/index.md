@@ -730,10 +730,6 @@ layout: page_fullwidth
         <td>Murat Toprak (Istanbul Technical University, Turkey)</td>
     </tr>
     <tr>
-        <td><b>SafeCut: Cache-Line Ownership Certificates for Adaptive Parallel Loop Scheduling</b></td>
-        <td>Haoyi Zhang (Xi'an Jiaotong-Liverpool University, China)</td>
-    </tr>
-    <tr>
         <td><b>Roofline-Decomposed Agents for Sample-Efficient On-Device LLM Execution</b></td>
         <td>Kaiyuan Zhang (Univeristy of Georgia, United States)</td>
     </tr>
