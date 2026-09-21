@@ -1,6 +1,6 @@
 ---
 title: PACT 2026 Technical program
-description: Preliminary program
+description: PACT 2026 program
 id: program
 layout: page_fullwidth
 ---
