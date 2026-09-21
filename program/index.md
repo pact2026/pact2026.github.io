@@ -239,7 +239,7 @@ layout: page_fullwidth
         <td><b>Talk 1 — #195: Efficient Scheduling Algorithm for Large-scale Models on Heterogeneous Mobile Systems</b><br>Jinyoung Kim; Minseong Kim; Yongjun Park; Yongjun Yongjun</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 2 — #73: SPARQ: Skew-Aware PIM Accelerator for Relational Join and Select Queries</b><br>Anastasia Ailamaki; Sabiha Tajdari; Sandhya Dwarkadas</td>
+        <td><b>Talk 2 — #73: SPARQ: Skew-Aware PIM Accelerator for Relational Join and Select Queries</b><br>Sabiha Tajdari; Anastasia Ailamaki; Sandhya Dwarkadas</td>
         <td><b>Talk 2 — #91: Cordelia: A Huffmanized Merkle Tree for Secure Memory</b><br>Galy Sela; Iris Bahar; Maurice Herlihy; Samuel Thomas; Tali Moreshet</td>
         <td><b>Talk 2 — #253: PALRAC: Parallel Linear Recurrence Accelerator for Tree-based Speculative Decoding</b><br>Hyuk-Jae Lee; Sangheon Lee; Xuan Truong Nguyen</td>
     </tr>
