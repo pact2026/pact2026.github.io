@@ -211,7 +211,7 @@ layout: page_fullwidth
         <td><b>Talk 2 — #127: FIFO Initialization: Efficient Support for Serial Loops on Spatial Elastic CGRAs</b><br>Eric Xu; Tarek Abdelrahman</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Jason Cong; Stéphane Pouget; Suhail Basalama</td>
+        <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Suhail Basalama; Stéphane Pouget; Jason Cong</td>
         <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Jaehyuk Huh; Juhyun Lee; Sanghyeon Lee; Soojin Hwang</td>
         <td><b>Talk 3 — #265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</b><br>Marc Gonzalez Tallada</td>
     </tr>
@@ -549,7 +549,7 @@ layout: page_fullwidth
     </tr>
     <tr>
         <td><b>ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b></td>
-        <td>Suhail Basalama (UCLA); Stéphane Pouget (University of California, Los Angeles); Jason Cong (UCLA)</td>
+        <td>Suhail Basalama (UCLA); Stéphane Pouget (UCLA); Jason Cong (UCLA)</td>
     </tr>
     <tr>
         <td><b>PALRAC: Parallel Linear Recurrence Accelerator for Tree-based Speculative Decoding</b></td>
