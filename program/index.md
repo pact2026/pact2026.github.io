@@ -35,8 +35,8 @@ layout: page_fullwidth
         <td style="white-space: nowrap"><b>9:00–10:00 AM</b></td>
         <td><b>Workshops &amp; Tutorials — Morning I</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
-        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
         <td><b>Workshop:</b> <a href="https://sites.google.com/view/mlac26/home" target="_blank">1st Workshop on ML for Assisting Code Quality (MLAC)</a>.<br>Workshop Chair: Jay Lofstead.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
         <td><b>Tutorial:</b> <a href="https://hpc.pnl.gov/SODA/tutorials/2025/PACT25.html" target="_blank">SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</a>.<br>Presenters: Nicolas Bohm Agostini, Vito Giovanni Castellana, Fabrizio Ferrandi, Serena Curzel, Ankur Limaye, Antonino Tumeo.</td>
     </tr>
     <tr style="background-color: #f2f2f2">
@@ -49,8 +49,8 @@ layout: page_fullwidth
         <td><b>10:30 AM–12:00 PM</b></td>
         <td><b>Workshops &amp; Tutorials — Morning II</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
-        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
         <td><b>Workshop:</b> <a href="https://sites.google.com/view/mlac26/home" target="_blank">1st Workshop on ML for Assisting Code Quality (MLAC)</a>.<br>Workshop Chair: Jay Lofstead.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/cedr-tutorial/" target="_blank">CEDR: A Holistic Software and Hardware Design Environment for Hardware Agnostic Application Development and Deployment on FPGA-Integrated Heterogeneous Systems</a>.<br>Presenters: Serhan Gener, Umut Suluhan, Ali Akoglu.</td>
         <td><b>Tutorial:</b> <a href="https://hpc.pnl.gov/SODA/tutorials/2025/PACT25.html" target="_blank">SODA Synthesizer: Accelerating Artificial Intelligence Applications with an End-to-End Silicon Compiler</a>.<br>Presenters: Nicolas Bohm Agostini, Vito Giovanni Castellana, Fabrizio Ferrandi, Serena Curzel, Ankur Limaye, Antonino Tumeo.</td>
     </tr>
     <tr style="background-color: #f2f2f2">
@@ -63,8 +63,8 @@ layout: page_fullwidth
         <td style="white-space: nowrap"><b>1:30–3:00 PM</b></td>
         <td><b>Workshops &amp; Tutorials — Afternoon I</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
-        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
         <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park, Riyadh Baghdadi, Joseph Manzano, Keren Zhou.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
     </tr>
     <tr style="background-color: #f2f2f2">
@@ -77,8 +77,8 @@ layout: page_fullwidth
         <td style="white-space: nowrap"><b>3:30–5:00 PM</b></td>
         <td><b>Workshops &amp; Tutorials — Afternoon II</b></td>
         <td><b>Workshop:</b> <a href="https://nationalsciencedatafabric.org/news/event-nsdf-summit/" target="_blank">1st National Science Data Fabric Summit</a>.<br>Organizers: Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah.</td>
-        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
         <td><b>Workshop:</b> <a href="https://lacs-workshop.github.io/" target="_blank">1st LACS (Learning-Augmented Compilers &amp; Systems)</a>.<br>Organizers: Eun Jung (EJ) Park, Riyadh Baghdadi, Joseph Manzano, Keren Zhou.</td>
+        <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/chameleon-tutorial/" target="_blank">Chameleon: An Open Platform for Computer Science Experimentation</a>.<br>Presenters: Kate Keahey, Mark Powers.</td>
         <td><b>Tutorial:</b> <a href="https://pact2026.github.io/workshops/reproducible-benchmarking-tutorial/" target="_blank">Reproducible Benchmarking for High-Performance Computing Applications</a>.<br>Presenters: Olga Pearce, Gregory Becker, Doug Jacobsen, Stephanie Brink</td>
     </tr>
     <tr style="background-color: #eaf2f8">
