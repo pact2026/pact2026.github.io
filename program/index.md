@@ -212,7 +212,7 @@ layout: page_fullwidth
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Jason Cong; Stéphane Pouget; Suhail Basalama</td>
-        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Jaehyuk Huh; Juhyun Lee; Sanghyeon Lee; Soojin Hwang</td>
+        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Soojin Hwang; Sanghyeon Lee; Juhyun Lee; Jaehyuk Huh</td>
         <td><b>Talk 3 — #265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</b><br>Marc Gonzalez Tallada</td>
     </tr>
     <tr style="background-color: #e2f0d9">
@@ -633,7 +633,7 @@ layout: page_fullwidth
         <td>Chenxi Wang (Institute of Computing Technology, Chinese Academy of Sciences); Yuchen Su (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences); Lei Wang (Institute of Computing Technology, Chinese Academy of Sciences); Guoxin Kang (University of Chinese Academy of Sciences); Wanling Gao (Institute of Computing Technology, Chinese Academy of Sciences); Fan Zhang (The International Open Benchmark Council); Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences)</td>
     </tr>
     <tr>
-        <td><b>Dynamic Scheduling of LLM Inference in Asymmetric Memory Systems for Energy-Performance Balance</b></td>
+        <td><b>Balancing Cost and Performance in Heterogeneous Memory Systems for LLM Inference</b></td>
         <td>Soojin Hwang (ETRI); Jungwoo Kim (Stanford University); Sanghyeon Lee (KAIST); Hongbeen Kim (KAIST); Jaehyuk Huh (KAIST)</td>
     </tr>
     <tr>
