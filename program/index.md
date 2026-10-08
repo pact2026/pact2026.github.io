@@ -212,7 +212,7 @@ layout: page_fullwidth
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Suhail Basalama; Stéphane Pouget; Jason Cong</td>
-        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Jaehyuk Huh; Juhyun Lee; Sanghyeon Lee; Soojin Hwang</td>
+        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Soojin Hwang; Sanghyeon Lee; Juhyun Lee; Jaehyuk Huh</td>
         <td><b>Talk 3 — #265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</b><br>Marc Gonzalez Tallada</td>
     </tr>
     <tr style="background-color: #e2f0d9">
