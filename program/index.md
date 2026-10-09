@@ -718,10 +718,6 @@ layout: page_fullwidth
         <td>Shreya Alladi (Computer Engineering Department, University of Murcia, Spain)</td>
     </tr>
     <tr>
-        <td><b>Model-Scale-Dependent Effects of Thread-Count Scaling on INT8 Dynamic Quantization</b></td>
-        <td>Nahla Nabil Skaik (Arab Open University - Bahrain, Bahrain)</td>
-    </tr>
-    <tr>
         <td><b>ACIO: Always-Complete Isolation of Outliers with Parallelism-Amortized Hardware for Low-Bit LLM Quantization</b></td>
         <td>Jihyeon Hwang (Seoul National University of Science and Technology, South Korea)</td>
     </tr>
