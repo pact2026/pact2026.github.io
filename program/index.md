@@ -249,7 +249,7 @@ layout: page_fullwidth
         <td><b>Talk 3 — #26: Split-Posit Systolic Array: A Resource-Efficient Hardware Accelerator for High-Performance AI Workloads</b><br>Arun M; Madhav Rao; Sneha Dandekar; Vaishnavi Sharma</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 4 — #548: ElaCache: Fine-Grain Dynamic Partitioning of LLCs and Coherence Directories in Multiprocessors</b><br>Adam Morrison; Dingyuan Cao; Josep Torrellas; Neil Zhao</td>
+        <td><b>Talk 4 — #548: ElaCache: Fine-Grain Dynamic Partitioning of LLCs and Coherence Directories in Multiprocessors</b><br>Dingyuan Cao; Neil Zhao; Adam Morrison; Josep Torrellas</td>
         <td><b>Talk 4 — #21: Proba: A High-Performance, Low-Traffic Probabilistic Spatial Memory Streaming Prefetcher</b><br>Jacky Wong; Sam Ainsworth; Yinting Huang</td>
         <td><b>Talk 4 — #107: HiNa-MoE: High-Performance, Non-Intrusive MoE Inference on CPUs with Matrix Engines</b><br>Dezun Dong; Enda Yu; Jianbin Fang; Junwen Zhang; Weiling Yang; Zhe Bai</td>
     </tr>
