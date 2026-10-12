@@ -706,10 +706,6 @@ layout: page_fullwidth
         <td>Eric Dubberstein (Carnegie Mellon University, United States)</td>
     </tr>
     <tr>
-        <td><b>Causal Observability for Microarchitectural Analysis</b></td>
-        <td>Saber Ganjisaffar (University of California, Riverside, United States)</td>
-    </tr>
-    <tr>
         <td><b>BIMBA: Best-Effort In-Network Merging with Bank-Side Accumulation for Transformer Accelerators</b></td>
         <td>Jungwoo Park (Seoul National University of Science and Technology, South Korea)</td>
     </tr>
