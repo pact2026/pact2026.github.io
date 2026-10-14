@@ -196,9 +196,9 @@ layout: page_fullwidth
     <tr style="background-color: #e2f0d9">
         <td style="white-space: nowrap" rowspan="5"><b>10:30 AM–12:00 PM</b></td>
         <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 1–3 — Parallel</b></td>
-        <td><b>Session 1 — Compiler Techniques for Dataflow and Accelerator Systems</b><br>Chair: To be announced</td>
-        <td><b>Session 2 — Processing-in-Memory for Large-Scale AI</b><br>Chair: To be announced</td>
-        <td><b>Session 3 — Compilation and Execution for Heterogeneous Architectures</b><br>Chair: To be announced</td>
+        <td><b>Session 1 — Compiler Techniques for Dataflow and Accelerator Systems</b><br>Chair: Lawrence Rauchwerger</td>
+        <td><b>Session 2 — Processing-in-Memory for Large-Scale AI</b><br>Chair: Sam Thomas</td>
+        <td><b>Session 3 — Compilation and Execution for Heterogeneous Architectures</b><br>Chair: Eunjung (EJ) Park</td>
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 1 — #154: Stream Swizzling: Extending HLS for Efficient Non-Affine Stream Permutations</b><br>Chengyue Wang; Jason Cong; Jonathan Xue; Shinju Ju; Yingquan Wu</td>
@@ -229,9 +229,9 @@ layout: page_fullwidth
     <tr style="background-color: #e2f0d9">
         <td style="white-space: nowrap" rowspan="5"><b>1:30–3:00 PM</b></td>
         <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 4–6 — Parallel</b></td>
-        <td><b>Session 4 — Memory Hierarchies and Processing-in-Memory</b><br>Chair: To be announced</td>
-        <td><b>Session 5 — Memory, Communication, and System-Level Data Movement</b><br>Chair: To be announced</td>
-        <td><b>Session 6 — Accelerating AI Across GPUs and Mobile Systems</b><br>Chair: To be announced</td>
+        <td><b>Session 4 — Memory Hierarchies and Processing-in-Memory</b><br>Chair: Xiaoyang Lu</td>
+        <td><b>Session 5 — Memory, Communication, and System-Level Data Movement</b><br>Chair: Changhee Jung</td>
+        <td><b>Session 6 — Accelerating AI Across GPUs and Mobile Systems</b><br>Chair: Younghyun Cho</td>
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 1 — #34: DREAM: In-DRAM Bit-Serial PIM with Data Reuse and Efficient Mapping</b><br>Aman Arora; Jeeho Ryoo; Jiajun Hu; Lizy K. John; Siddhartha Raman Sundara Raman; Siyuan Ma</td>
@@ -262,8 +262,8 @@ layout: page_fullwidth
     <tr style="background-color: #e2f0d9">
         <td style="white-space: nowrap" rowspan="3"><b>3:30–4:15 PM</b></td>
         <td style="white-space: nowrap" rowspan="3"><b>Technical Sessions 7–8 — Parallel</b></td>
-        <td><b>Session 7 — Compilation for Specialized Computing</b><br>Chair: To be announced</td>
-        <td><b>Session 8 — Efficient ML Serving and Heterogeneous Scheduling</b><br>Chair: To be announced</td>
+        <td><b>Session 7 — Compilation for Specialized Computing</b><br>Chair: Krish Sundararajah</td>
+        <td><b>Session 8 — Efficient ML Serving and Heterogeneous Scheduling</b><br>Chair: Yongjun Park</td>
         <td rowspan="3"><b>ACM SRC Poster Finalists</b><br>Chair: Jay Lofstead, Sandia National Laboratories<br><br><b>Presenters will be announced on Tuesday, October 20, following the PACT Poster Session and Poster Reception.</b><br><br>Finalists for the ACM Student Research Competition (SRC) will be selected based on the quality of their poster presentations and discussions during the Poster Session. Selected finalists will be invited to present their work in this session.</td>
     </tr>
     <tr style="background-color: #e2f0d9">
@@ -316,9 +316,9 @@ layout: page_fullwidth
     <tr style="background-color: #e2f0d9">
         <td style="white-space: nowrap" rowspan="5"><b>10:30 AM–12:00 PM</b></td>
         <td style="white-space: nowrap" rowspan="5"><b>Technical Sessions 9–11 — Parallel</b></td>
-        <td><b>Session 9 — GPU Execution and AI Workload Optimization</b><br>Chair: To be announced</td>
-        <td><b>Session 10 — GPU Memory Systems and Data-Intensive Acceleration</b><br>Chair: To be announced</td>
-        <td><b>Session 11 — Performance Optimization, Scheduling, and Communication</b><br>Chair: To be announced</td>
+        <td><b>Session 9 — GPU Execution and AI Workload Optimization</b><br>Chair: Kin Wai NG</td>
+        <td><b>Session 10 — GPU Memory Systems and Data-Intensive Acceleration</b><br>Chair: Chen Ding</td>
+        <td><b>Session 11 — Performance Optimization, Scheduling, and Communication</b><br>Chair: Mary Hall</td>
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 1 — #141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
