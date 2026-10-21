@@ -126,17 +126,17 @@ layout: page_fullwidth
     <tr>
         <td style="white-space: nowrap"><b>11:00–11:30 AM</b></td>
         <td></td>
-        <td><b>#289: Hoppolyta: Polyhedral Kernel Generation Meets Hopper Architecture</b><br>Aravind Acharya; Somashekaracharya G Bhaskaracharya; Evghenii Gaburov; Bin Fan; Alexander Collins; Bastian Hagedorn; Vinod Grover</td>
+        <td><b><a href="/program/papers/pact26-final289.pdf" target="_blank">#289: Hoppolyta: Polyhedral Kernel Generation Meets Hopper Architecture</a></b><br>Aravind Acharya; Somashekaracharya G Bhaskaracharya; Evghenii Gaburov; Bin Fan; Alexander Collins; Bastian Hagedorn; Vinod Grover</td>
     </tr>
     <tr>
         <td style="white-space: nowrap"><b>11:30 AM–12:00 PM</b></td>
         <td></td>
-        <td><b>#344: SALT: Symbolic Analysis of Loop Tiling</b><br>Yanghui Wu; Yifan Zhu; Yekai Pan; Chen Ding</td>
+        <td><b><a href="/program/papers/pact26-final344.pdf" target="_blank">#344: SALT: Symbolic Analysis of Loop Tiling</a></b><br>Yanghui Wu; Yifan Zhu; Yekai Pan; Chen Ding</td>
     </tr>
     <tr>
         <td style="white-space: nowrap"><b>12:00–12:30 PM</b></td>
         <td></td>
-        <td><b>#130: ESA: Improving GPU Utilization with Elastic Isolation for ML Inference Services</b><br>Taeklim Kim; Saurabh Agarwal; Rachata Ausavarungnirun; Jayneel Gandhi; Christopher J. Rossbach</td>
+        <td><b><a href="/program/papers/pact26-final130.pdf" target="_blank">#130: ESA: Improving GPU Utilization with Elastic Isolation for ML Inference Services</a></b><br>Taeklim Kim; Saurabh Agarwal; Rachata Ausavarungnirun; Jayneel Gandhi; Christopher J. Rossbach</td>
     </tr>
     <tr style="background-color: #f2f2f2">
         <td style="white-space: nowrap"><b>12:30–2:00 PM</b></td>
@@ -201,24 +201,24 @@ layout: page_fullwidth
         <td><b>Session 3 — Compilation and Execution for Heterogeneous Architectures</b><br>Chair: Eunjung (EJ) Park</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 1 — #154: Stream Swizzling: Extending HLS for Efficient Non-Affine Stream Permutations</b><br>Chengyue Wang; Jason Cong; Jonathan Xue; Shinju Ju; Yingquan Wu</td>
-        <td><b>Talk 1 — #5: PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies</b><br>Byeongho Kim; Hyeonsu Kim; Jaehoon Yu; Kyomin Sohn; Sanghoon Cha; Seungwon Lee; Seungwoo Seo; Sukhan Lee; Sunjung Lee; Yongjun Park; Yuhwan Ro</td>
-        <td><b>Talk 1 — #56: AIEHalide: Compiling Halide to Spatial NPU Dataflow with Constrained Autoscheduling</b><br>Abnikant Singh; Suresh Purini</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final154.pdf" target="_blank">#154: Stream Swizzling: Extending HLS for Efficient Non-Affine Stream Permutations</a></b><br>Chengyue Wang; Jason Cong; Jonathan Xue; Shinju Ju; Yingquan Wu</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final5.pdf" target="_blank">#5: PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies</a></b><br>Byeongho Kim; Hyeonsu Kim; Jaehoon Yu; Kyomin Sohn; Sanghoon Cha; Seungwon Lee; Seungwoo Seo; Sukhan Lee; Sunjung Lee; Yongjun Park; Yuhwan Ro</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final56.pdf" target="_blank">#56: AIEHalide: Compiling Halide to Spatial NPU Dataflow with Constrained Autoscheduling</a></b><br>Abnikant Singh; Suresh Purini</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 2 — #188: Splyce: SIMD Vectorization of Sparse Coiteration</b><br>Kabilan Mahathevan; Kirshanthan Sundararajah; Poorna Gunathilaka</td>
-        <td><b>Talk 2 — #87: PDiMC: Achieving High-Throughput LLM Inference and Resolving Memory Concurrency via an Efficient PIM Subsystem</b><br>Byeongho Kim; Hweesoo Kim; Jaewan Choi; Kyomin Sohn; Sukhan Lee; Wontak Han; Yoonah Paik</td>
-        <td><b>Talk 2 — #127: FIFO Initialization: Efficient Support for Serial Loops on Spatial Elastic CGRAs</b><br>Eric Xu; Tarek Abdelrahman</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final188.pdf" target="_blank">#188: Splyce: SIMD Vectorization of Sparse Coiteration</a></b><br>Kabilan Mahathevan; Kirshanthan Sundararajah; Poorna Gunathilaka</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final87.pdf" target="_blank">#87: PDiMC: Achieving High-Throughput LLM Inference and Resolving Memory Concurrency via an Efficient PIM Subsystem</a></b><br>Byeongho Kim; Hweesoo Kim; Jaewan Choi; Kyomin Sohn; Sukhan Lee; Wontak Han; Yoonah Paik</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-paper127.pdf" target="_blank">#127: FIFO Initialization: Efficient Support for Serial Loops on Spatial Elastic CGRAs</a></b><br>Eric Xu; Tarek Abdelrahman</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 3 — #240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</b><br>Suhail Basalama; Stéphane Pouget; Jason Cong</td>
-        <td><b>Talk 3 — #109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</b><br>Soojin Hwang; Sanghyeon Lee; Juhyun Lee; Jaehyuk Huh</td>
-        <td><b>Talk 3 — #265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</b><br>Marc Gonzalez Tallada</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final240.pdf" target="_blank">#240: ST-Flow: A Hardware Compiler for Automating Spatial-Temporal Dataflow Acceleration</a></b><br>Suhail Basalama; Stéphane Pouget; Jason Cong</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-paper109.pdf" target="_blank">#109: A Hybrid Processing-in-Memory Architecture for Long Sequence LLM Inference with KV Cache Filtering</a></b><br>Soojin Hwang; Sanghyeon Lee; Juhyun Lee; Jaehyuk Huh</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final265.pdf" target="_blank">#265: KERYX: A CUDA/HIP Framework for Adaptive Runtime Compilation in Heterogeneous Systems</a></b><br>Marc Gonzalez Tallada</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 4 — #409: Practical Correctness and Equivalence Checking for MLIR</b><br>Emily Tucker; Erika Hunhoff; Erwei Wang; Louis-Noel Pouchet; Stephen Neuendorffer</td>
-        <td><b>Talk 4 — #377: ASTRA-MoE: GPU-Augmenting In-Storage Acceleration for Long-Context Mixture-of-Expert Inference</b><br>Hyeonggyu Jeong; Inyoung Song; Jinwoo Jeong; Jungwook Choi; Kyungmo Koo; Yongho Song</td>
-        <td><b>Talk 4 — #364: Partial Instruction Execution on Long SIMD Architectures</b><br>Adrià Armejach; Francesc Martinez; Marc Casas</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final409.pdf" target="_blank">#409: Practical Correctness and Equivalence Checking for MLIR</a></b><br>Emily Tucker; Erika Hunhoff; Erwei Wang; Louis-Noel Pouchet; Stephen Neuendorffer</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final377.pdf" target="_blank">#377: ASTRA-MoE: GPU-Augmenting In-Storage Acceleration for Long-Context Mixture-of-Expert Inference</a></b><br>Hyeonggyu Jeong; Inyoung Song; Jinwoo Jeong; Jungwook Choi; Kyungmo Koo; Yongho Song</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final364.pdf" target="_blank">#364: Partial Instruction Execution on Long SIMD Architectures</a></b><br>Adrià Armejach; Francesc Martinez; Marc Casas</td>
     </tr>
     <tr style="background-color: #f2f2f2">
         <td style="white-space: nowrap"><b>12:00–1:30 PM</b></td>
@@ -234,24 +234,24 @@ layout: page_fullwidth
         <td><b>Session 6 — Accelerating AI Across GPUs and Mobile Systems</b><br>Chair: Younghyun Cho</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 1 — #34: DREAM: In-DRAM Bit-Serial PIM with Data Reuse and Efficient Mapping</b><br>Aman Arora; Jeeho Ryoo; Jiajun Hu; Lizy K. John; Siddhartha Raman Sundara Raman; Siyuan Ma</td>
-        <td><b>Talk 1 — #318: Hermes: Accelerating Page Migration and HPC Data Transfers with NoC-attached Engines</b><br>Adrià Armejach; Francesco Sgherzi; Ivan Vega; Jordi Fornt; Juan Miguel de Haro Ruiz; Marco Siracusa; Miquel Moreto; Pouya Esmaili Dokht</td>
-        <td><b>Talk 1 — #195: Efficient Scheduling Algorithm for Large-scale Models on Heterogeneous Mobile Systems</b><br>Jinyoung Kim; Minseong Kim; Yongjun Park; Yongjun Yongjun</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-paper34.pdf" target="_blank">#34: DREAM: In-DRAM Bit-Serial PIM with Data Reuse and Efficient Mapping</a></b><br>Aman Arora; Jeeho Ryoo; Jiajun Hu; Lizy K. John; Siddhartha Raman Sundara Raman; Siyuan Ma</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final318.pdf" target="_blank">#318: Hermes: Accelerating Page Migration and HPC Data Transfers with NoC-attached Engines</a></b><br>Adrià Armejach; Francesco Sgherzi; Ivan Vega; Jordi Fornt; Juan Miguel de Haro Ruiz; Marco Siracusa; Miquel Moreto; Pouya Esmaili Dokht</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final195.pdf" target="_blank">#195: Efficient Scheduling Algorithm for Large-scale Models on Heterogeneous Mobile Systems</a></b><br>Jinyoung Kim; Minseong Kim; Yongjun Park; Yongjun Yongjun</td>
     </tr>
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 2 — <a href="/program/papers/pact26-paper73.pdf" target="_blank">#73: SPARQ: Skew-Aware PIM Accelerator for Relational Join and Select Queries</a></b><br>Sabiha Tajdari; Anastasia Ailamaki; Sandhya Dwarkadas</td>
-        <td><b>Talk 2 — #91: Cordelia: A Huffmanized Merkle Tree for Secure Memory</b><br>Galy Sela; Iris Bahar; Maurice Herlihy; Samuel Thomas; Tali Moreshet</td>
-        <td><b>Talk 2 — #253: PALRAC: Parallel Linear Recurrence Accelerator for Tree-based Speculative Decoding</b><br>Hyuk-Jae Lee; Sangheon Lee; Xuan Truong Nguyen</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final91.pdf" target="_blank">#91: Cordelia: A Huffmanized Merkle Tree for Secure Memory</a></b><br>Galy Sela; Iris Bahar; Maurice Herlihy; Samuel Thomas; Tali Moreshet</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final253.pdf" target="_blank">#253: PALRAC: Parallel Linear Recurrence Accelerator for Tree-based Speculative Decoding</a></b><br>Hyuk-Jae Lee; Sangheon Lee; Xuan Truong Nguyen</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 3 — #489: Focus on What Matters: DRAM-CXL Hybrid Memory Management with PRISM</b><br>Daniel Mosse; Fatemeh Golshan</td>
-        <td><b>Talk 3 — #143: A Coordinated Approach to Transactional Data Structures</b><br>Ahmed Hassan; Michael Spear; Yaodong Sheng</td>
-        <td><b>Talk 3 — #26: Split-Posit Systolic Array: A Resource-Efficient Hardware Accelerator for High-Performance AI Workloads</b><br>Arun M; Madhav Rao; Sneha Dandekar; Vaishnavi Sharma</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-paper489.pdf" target="_blank">#489: Focus on What Matters: DRAM-CXL Hybrid Memory Management with PRISM</a></b><br>Daniel Mosse; Fatemeh Golshan</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-paper143.pdf" target="_blank">#143: A Coordinated Approach to Transactional Data Structures</a></b><br>Ahmed Hassan; Michael Spear; Yaodong Sheng</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final26.pdf" target="_blank">#26: Split-Posit Systolic Array: A Resource-Efficient Hardware Accelerator for High-Performance AI Workloads</a></b><br>Arun M; Madhav Rao; Sneha Dandekar; Vaishnavi Sharma</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 4 — #548: ElaCache: Fine-Grain Dynamic Partitioning of LLCs and Coherence Directories in Multiprocessors</b><br>Dingyuan Cao; Neil Zhao; Adam Morrison; Josep Torrellas</td>
-        <td><b>Talk 4 — #21: Proba: A High-Performance, Low-Traffic Probabilistic Spatial Memory Streaming Prefetcher</b><br>Jacky Wong; Sam Ainsworth; Yinting Huang</td>
-        <td><b>Talk 4 — #107: HiNa-MoE: High-Performance, Non-Intrusive MoE Inference on CPUs with Matrix Engines</b><br>Dezun Dong; Enda Yu; Jianbin Fang; Junwen Zhang; Weiling Yang; Zhe Bai</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final548.pdf" target="_blank">#548: ElaCache: Fine-Grain Dynamic Partitioning of LLCs and Coherence Directories in Multiprocessors</a></b><br>Dingyuan Cao; Neil Zhao; Adam Morrison; Josep Torrellas</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final21.pdf" target="_blank">#21: Proba: A High-Performance, Low-Traffic Probabilistic Spatial Memory Streaming Prefetcher</a></b><br>Jacky Wong; Sam Ainsworth; Yinting Huang</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final107.pdf" target="_blank">#107: HiNa-MoE: High-Performance, Non-Intrusive MoE Inference on CPUs with Matrix Engines</a></b><br>Dezun Dong; Enda Yu; Jianbin Fang; Junwen Zhang; Weiling Yang; Zhe Bai</td>
     </tr>
     <tr style="background-color: #f2f2f2">
         <td style="white-space: nowrap"><b>3:00–3:30 PM</b></td>
@@ -267,12 +267,12 @@ layout: page_fullwidth
         <td rowspan="3"><b>ACM SRC Poster Finalists</b><br>Chair: Jay Lofstead, Sandia National Laboratories<br><br><b>Presenters will be announced on Tuesday, October 20, following the PACT Poster Session and Poster Reception.</b><br><br>Finalists for the ACM Student Research Competition (SRC) will be selected based on the quality of their poster presentations and discussions during the Poster Session. Selected finalists will be invited to present their work in this session.</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 1 — #277: Reducing Address Arithmetic Overheads: New Compiler Techniques for Programmable Dataflow-based AI Accelerators</b><br>Alberto Mannari; Alex Gatea; Bardia Mahjour; Chris Bowler; Masoud Ataei Jaliseh; Nicole Khoun; Prasanth Chatarasi; Shubham Jain; Swagath Venkataramani; Viji Srinivasan; Wei Wang</td>
-        <td><b>Talk 1 — #519: HeteroSched: Co-Optimizing Scheduling and Parallelization for Deep Learning Workloads for Heterogeneous GPU Clusters</b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final277.pdf" target="_blank">#277: Reducing Address Arithmetic Overheads: New Compiler Techniques for Programmable Dataflow-based AI Accelerators</a></b><br>Alberto Mannari; Alex Gatea; Bardia Mahjour; Chris Bowler; Masoud Ataei Jaliseh; Nicole Khoun; Prasanth Chatarasi; Shubham Jain; Swagath Venkataramani; Viji Srinivasan; Wei Wang</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final519.pdf" target="_blank">#519: HeteroSched: Co-Optimizing Scheduling and Parallelization for Deep Learning Workloads for Heterogeneous GPU Clusters</a></b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 2 — #58: Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</b><br>Hengrui Chen; Shui Jiang; Tsung-Wei Huang; Tsung-Yi Ho</td>
-        <td><b>Talk 2 — #633: EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models</b><br>Gagan Agrawal; Hangyu Zheng; Kunxiong Zhu; Miao Yin; Minghai Qin; Wei Niu; Zhihao Shu</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final58.pdf" target="_blank">#58: Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a></b><br>Hengrui Chen; Shui Jiang; Tsung-Wei Huang; Tsung-Yi Ho</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final633.pdf" target="_blank">#633: EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models</a></b><br>Gagan Agrawal; Hangyu Zheng; Kunxiong Zhu; Miao Yin; Minghai Qin; Wei Niu; Zhihao Shu</td>
     </tr>
     <tr style="background-color: #ddebf7">
         <td style="white-space: nowrap"><b>4:15–5:00 PM</b></td>
@@ -321,24 +321,24 @@ layout: page_fullwidth
         <td><b>Session 11 — Performance Optimization, Scheduling, and Communication</b><br>Chair: Mary Hall</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 1 — #141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
-        <td><b>Talk 1 — #39: SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting</b><br>Dongho Ha; Hyunwuk Lee; Mingu Jung; Seunghyun Lee; Sungbin Kim; Sungwoo Kim; Won Woo Ro; Yingyan (Celine) Lin</td>
-        <td><b>Talk 1 — #97: Versatile Power Benchmark Generation for Modeling Emerging GPU Workloads and their Power Events</b><br>Allison Seigler; Lizy K. John; Zhixing Jiang</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final141.pdf" target="_blank">#141: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs</a></b><br>Lihan Hu; Peng Jiang; Sun Xian-He; Xian-He Sun; Xiaoyang Lu</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final39.pdf" target="_blank">#39: SLGS: A Structure-Aware Scanline Renderer for Efficient 3D Gaussian Splatting</a></b><br>Dongho Ha; Hyunwuk Lee; Mingu Jung; Seunghyun Lee; Sungbin Kim; Sungwoo Kim; Won Woo Ro; Yingyan (Celine) Lin</td>
+        <td><b>Talk 1 — <a href="/program/papers/pact26-final97.pdf" target="_blank">#97: Versatile Power Benchmark Generation for Modeling Emerging GPU Workloads and their Power Events</a></b><br>Allison Seigler; Lizy K. John; Zhixing Jiang</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 2 — #75: Fast Cross-Operator Optimization of Attention Dataflow on Spatial Accelerators</b><br>Bo Yuan; Hailiang Hu; Haodong Chang; Jiang Hu; Rongjian Liang; Yu Gong; Zhenrui Wang; Zhexiang Tang</td>
-        <td><b>Talk 2 — #191: GZswap: Hardware-Managed Compressed Swap for GPU Memory Oversubscription</b><br>Boyeol Choi; Jungrae Kim; Sanghyun Hong; Sanghyun Park; Seokin Hong</td>
-        <td><b>Talk 2 — #475: HSF: A Hierarchical Scheduling Framework for Application-Tailored Scheduling on Tasking Runtimes</b><br>Antoni Navarro Muñoz; David Álvarez; Vicenç Beltran; Vincent A. Arcila Larrea</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final75.pdf" target="_blank">#75: Fast Cross-Operator Optimization of Attention Dataflow on Spatial Accelerators</a></b><br>Bo Yuan; Hailiang Hu; Haodong Chang; Jiang Hu; Rongjian Liang; Yu Gong; Zhenrui Wang; Zhexiang Tang</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final191.pdf" target="_blank">#191: GZswap: Hardware-Managed Compressed Swap for GPU Memory Oversubscription</a></b><br>Boyeol Choi; Jungrae Kim; Sanghyun Hong; Sanghyun Park; Seokin Hong</td>
+        <td><b>Talk 2 — <a href="/program/papers/pact26-final475.pdf" target="_blank">#475: HSF: A Hierarchical Scheduling Framework for Application-Tailored Scheduling on Tasking Runtimes</a></b><br>Antoni Navarro Muñoz; David Álvarez; Vicenç Beltran; Vincent A. Arcila Larrea</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 3 — #327: KerColle: Unlocking Fine-Grained GPU Concurrency in Vision-Language-Action Models</b><br>Anna Li; Christina Giannoula; Nandita Vijaykumar</td>
-        <td><b>Talk 3 — #13: V-PWC: Accelerating Page Table Walk for Multi-Chip-Module GPUs</b><br>Mingxin Tang; Qiong Li; Sen Yang; Wei Chen; Xia Zhao; Xinjin Gao</td>
-        <td><b>Talk 3 — #146: Scalable Asynchronous Aggregation for Many-to-Many Transfers</b><br>Naveen Namashivayam Ravichandrasekaran; Pen-Chung Yew</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final327.pdf" target="_blank">#327: KerColle: Unlocking Fine-Grained GPU Concurrency in Vision-Language-Action Models</a></b><br>Anna Li; Christina Giannoula; Nandita Vijaykumar</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final13.pdf" target="_blank">#13: V-PWC: Accelerating Page Table Walk for Multi-Chip-Module GPUs</a></b><br>Mingxin Tang; Qiong Li; Sen Yang; Wei Chen; Xia Zhao; Xinjin Gao</td>
+        <td><b>Talk 3 — <a href="/program/papers/pact26-final146.pdf" target="_blank">#146: Scalable Asynchronous Aggregation for Many-to-Many Transfers</a></b><br>Naveen Namashivayam Ravichandrasekaran; Pen-Chung Yew</td>
     </tr>
     <tr style="background-color: #e2f0d9">
-        <td><b>Talk 4 — #405: Mask-Aware Execution for Efficient JEPA Training</b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim; Wei Niu; Zhihao Shu</td>
-        <td><b>Talk 4 — #238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
-        <td><b>Talk 4 — #190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</b><br>Hengrui Luo; Saeyeon Kim; Tirthak Patel; Vedica Rao; Younghyun Cho</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-paper405.pdf" target="_blank">#405: Mask-Aware Execution for Efficient JEPA Training</a></b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim; Wei Niu; Zhihao Shu</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final238.pdf" target="_blank">#238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</a></b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final190.pdf" target="_blank">#190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</a></b><br>Hengrui Luo; Saeyeon Kim; Tirthak Patel; Vedica Rao; Younghyun Cho</td>
     </tr>
     <tr>
         <td style="white-space: nowrap"><b>12:00–12:10 PM</b></td>
@@ -625,63 +625,63 @@ layout: page_fullwidth
         <th>Authors (Affiliations)</th>
     </thead>
     <tr>
-        <td><b>SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV</b></td>
+        <td><b><a href="/program/posters/pact26-final3.pdf" target="_blank">SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV</a></b></td>
         <td>Jingyao Zhang (University of California, Riverside); Jaewoo Park (Ulsan National Institute of Science and Technology); Jongeun Lee (Ulsan National Institute of Science and Technology); Elaheh Sadredini (University of California, Riverside)</td>
     </tr>
     <tr>
-        <td><b>BenchCPU: Performance Distribution-Aware CPU Benchmarking over Open Configuration Spaces</b></td>
+        <td><b><a href="/program/posters/pact26-final33.pdf" target="_blank">BenchCPU: Performance Distribution-Aware CPU Benchmarking over Open Configuration Spaces</a></b></td>
         <td>Chenxi Wang (Institute of Computing Technology, Chinese Academy of Sciences); Yuchen Su (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences); Lei Wang (Institute of Computing Technology, Chinese Academy of Sciences); Guoxin Kang (University of Chinese Academy of Sciences); Wanling Gao (Institute of Computing Technology, Chinese Academy of Sciences); Fan Zhang (The International Open Benchmark Council); Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences)</td>
     </tr>
     <tr>
-        <td><b>Balancing Cost and Performance in Heterogeneous Memory Systems for LLM Inference</b></td>
+        <td><b><a href="/program/posters/pact26-final43.pdf" target="_blank">Balancing Cost and Performance in Heterogeneous Memory Systems for LLM Inference</a></b></td>
         <td>Soojin Hwang (ETRI); Jungwoo Kim (Stanford University); Sanghyeon Lee (KAIST); Hongbeen Kim (KAIST); Jaehyuk Huh (KAIST)</td>
     </tr>
     <tr>
-        <td><b>ABS: Efficiently Serving Deep Learning Models with Offline CVMs</b></td>
+        <td><b><a href="/program/posters/pact26-paper103.pdf" target="_blank">ABS: Efficiently Serving Deep Learning Models with Offline CVMs</a></b></td>
         <td>Bojian Zheng (University of Toronto, CentML, Vector Institute); Wenyang Wang (University of Toronto, CentML, Vector Institute); Hui Shi (Tencent); Jie Fu (Tencent); Xiaofeng Yang (Tencent); Yangyu Tao (Tencent); Peng Chen (Tencent); Jie Jiang (Tencent)</td>
     </tr>
     <tr>
-        <td><b>FineCAT: Instruction-Count-Driven Fine-Grained LLC Management for Co-Location Scenarios</b></td>
+        <td><b><a href="/program/posters/pact26-final116.pdf" target="_blank">FineCAT: Instruction-Count-Driven Fine-Grained LLC Management for Co-Location Scenarios</a></b></td>
         <td>Yanqi Kan (Institute of Computing Technology, Chinese Academy of Sciences); Lei Wang (Institute of Computing Technology, Chinese Academy of Sciences); Fanda Fan (University of Chinese Academy of Sciences); Yikang Yang (Institute of Computing Technology, Chinese Academy of Sciences); Wanling Gao (Institute of Computing Technology, Chinese Academy of Sciences); Chunjie Luo (Institute of Computing Technology, Chinese Academy of Sciences); Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences)</td>
     </tr>
     <tr>
-        <td><b>HARMONY: A Framework for Cooperative Memory Scheduling in CXL Memory Systems</b></td>
+        <td><b><a href="/program/posters/pact26-final117.pdf" target="_blank">HARMONY: A Framework for Cooperative Memory Scheduling in CXL Memory Systems</a></b></td>
         <td>Yongho Lee (Sungkyunkwan University); Junbum Park (Sungkyunkwan University); Sungbin Jang (Sungkyunkwan University); Osang Kwon (Samsung Electronics); Minkyu Choi (Samsung Electronics); Seokin Hong (Sungkyunkwan University)</td>
     </tr>
     <tr>
-        <td><b>HERO: Local HBM Enhancements to Support Remote Memory Optimizations</b></td>
+        <td><b><a href="/program/posters/pact26-paper118.pdf" target="_blank">HERO: Local HBM Enhancements to Support Remote Memory Optimizations</a></b></td>
         <td>Christin David Bose (Purdue University); Cesar Avalos (Purdue University); Yechen Liu (Purdue University); Timothy Rogers (Purdue University)</td>
     </tr>
     <tr>
-        <td><b>Automating Exploration and Code Generation for Pipelined Dataflows on AMD XDNA™ NPUs</b></td>
+        <td><b><a href="/program/posters/pact26-final121.pdf" target="_blank">Automating Exploration and Code Generation for Pipelined Dataflows on AMD XDNA™ NPUs</a></b></td>
         <td>Joren Dumoulin (KU Leuven); Arne Symons (KU Leuven); Erika Hunhoff (AMD); Andre Roesti (AMD); Andra Bisca (AMD); Gagandeep Singh (AMD); Kristof Denolf (AMD); Marian Verhelst (KU Leuven)</td>
     </tr>
     <tr>
-        <td><b>TPE: AI-MicroBMT: A Unified Benchmark Tool for Deployment-Aware Performance Characterization of Diverse AI Accelerators</b></td>
+        <td><b><a href="/program/posters/pact26-final128.pdf" target="_blank">TPE: AI-MicroBMT: A Unified Benchmark Tool for Deployment-Aware Performance Characterization of Diverse AI Accelerators</a></b></td>
         <td>Jonghyun Shin (Seoul National University); Dongmyong Shin (Seoul National University); Jeongnam Youn (Suwon Science College); Dae-Hwan Kim (Seoul National University); Soojung Ryu (Seoul National University); Xuan Truong Nguyen (Seoul National University); Hyuk-Jae Lee (Seoul National University)</td>
     </tr>
     <tr>
-        <td><b>Diffusion-Based Data Augmentation for Multi-Label Performance Modeling</b></td>
+        <td><b><a href="/program/posters/pact26-final156.pdf" target="_blank">Diffusion-Based Data Augmentation for Multi-Label Performance Modeling</a></b></td>
         <td>Mohammad Ali (Texas State University); Apan Qasem (Texas State University)</td>
     </tr>
     <tr>
-        <td><b>UniFlow: A Spatial Transformer Accelerator with Unified GEMM and Non-GEMM Dataflow Architecture</b></td>
+        <td><b><a href="/program/posters/pact26-paper300.pdf" target="_blank">UniFlow: A Spatial Transformer Accelerator with Unified GEMM and Non-GEMM Dataflow Architecture</a></b></td>
         <td>Haocheng Xu (University of California, Irvine); Faraz Tahmasebi (University of California, Irvine); Rachid Karami (University of California, Irvine); Zhiheng Chen (University of California, Irvine); Hyoukjun Kwon (University of California, Irvine); Sitao Huang (University of California, Irvine)</td>
     </tr>
     <tr>
-        <td><b>NDS: Programmer-Free Offload of High-Performance Near Data Strands</b></td>
+        <td><b><a href="/program/posters/pact26-final396.pdf" target="_blank">NDS: Programmer-Free Offload of High-Performance Near Data Strands</a></b></td>
         <td>Shreyas Singh (University of Utah); Pratyush Nandi (University of Utah); Lin Jia (Intel); Shankar Balachandran (University of Utah); Rajeev Balasubramonian (University of Utah)</td>
     </tr>
     <tr>
-        <td><b>Cooperative Wavefronts: WFA and GWFA on a 4096-PE MIMD Many-Core</b></td>
+        <td><b><a href="/program/posters/pact26-final417.pdf" target="_blank">Cooperative Wavefronts: WFA and GWFA on a 4096-PE MIMD Many-Core</a></b></td>
         <td>Wenjie Geng (University of Michigan - Ann Arbor); Noah Kaplan (University of Michigan - Ann Arbor); Reetuparna Das (University of Michigan - Ann Arbor); Nathaniel Bleier (University of Michigan - Ann Arbor)</td>
     </tr>
     <tr>
-        <td><b>SCISSOR: Scalable I/O for Small Scattered Objects Runtime</b></td>
+        <td><b><a href="/program/posters/pact26-final550.pdf" target="_blank">SCISSOR: Scalable I/O for Small Scattered Objects Runtime</a></b></td>
         <td>Kevin Assogba (Rochester Institute of Technology); Nigel Tan (Los Alamos National Laboratory); M. Mustafa Rafique (Rochester Institute of Technology); Michela Taufer (University of Tennessee Knoxville); Bogdan Nicolae (Argonne National Laboratory)</td>
     </tr>
     <tr>
-        <td><b>From Resampling to Retrieval: A Unified Budgeted View of Training with Large Candidate Sets</b></td>
+        <td><b><a href="/program/posters/pact26-final556.pdf" target="_blank">From Resampling to Retrieval: A Unified Budgeted View of Training with Large Candidate Sets</a></b></td>
         <td>Ziyang Jia (University of Missouri, Columbia); Tanu Malik (University of Missouri, Columbia)</td>
     </tr>
 </table>
