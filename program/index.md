@@ -338,7 +338,7 @@ layout: page_fullwidth
     <tr style="background-color: #e2f0d9">
         <td><b>Talk 4 — <a href="/program/papers/pact26-paper405.pdf" target="_blank">#405: Mask-Aware Execution for Efficient JEPA Training</a></b><br>Amirali Mirian; Bahram Afsharmanesh; Gagan Agrawal; Md Musfiqur Rahman Sanim; Wei Niu; Zhihao Shu</td>
         <td><b>Talk 4 — <a href="/program/papers/pact26-final238.pdf" target="_blank">#238: CAPO: Enhancing CXL-based Memory Expanders with Adaptive Prefetching</a></b><br>Anwen Huang; Chenglong Li; Jingyan Song; Na Nie; Qiong Li; Yongji Liu; Zhijie Liu</td>
-        <td><b>Talk 4 — <a href="/program/papers/pact26-final190.pdf" target="_blank">#190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</a></b><br>Hengrui Luo; Saeyeon Kim; Tirthak Patel; Vedica Rao; Younghyun Cho</td>
+        <td><b>Talk 4 — <a href="/program/papers/pact26-final190.pdf" target="_blank">#190: VaBO: Delivering Reliable Autotuning Performance in Parallel Applications under Unreliable Conditions</a></b><br>Vedica Rao; Saeyeon Kim; Hengrui Luo; Tirthak Patel; Younghyun Cho</td>
     </tr>
     <tr>
         <td style="white-space: nowrap"><b>12:00–12:10 PM</b></td>
