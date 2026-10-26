@@ -58,9 +58,24 @@ show_sidebar: true
 
 - Kin Hong Ng, University of Tennessee, Knoxville (UTK)
 
-#### Local Arrangement Chair
+#### IT Chairs
+
+- Kin Wai NG, University of Tennessee, Knoxville (UTK)
+- Kin Hong NG, University of Tennessee, Knoxville (UTK)
+
+#### Onsite Event Managers
+
+- Jessica Walker, University of Tennessee, Knoxville
+- Brenda Peterson, University of Utah
+
+#### Event Coordinator and Local Arrangement Chair
 
 - Grace Wiesser, University of Tennessee, Knoxville
+
+#### Student Volunteers
+
+- Befikir Bogale, University of Tennessee, Knoxville
+- Steven Dao, University of Tennessee, Knoxville
 
 ---
 
