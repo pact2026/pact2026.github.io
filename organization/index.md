@@ -70,7 +70,7 @@ show_sidebar: true
 
 #### Event Coordinator and Local Arrangement Chair
 
-- Grace Wiesser, University of Tennessee, Knoxville
+- Grace Wisser, University of Tennessee, Knoxville
 
 #### Student Volunteers
 
