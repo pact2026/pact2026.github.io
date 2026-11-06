@@ -1,0 +1,58 @@
+---
+title: PACT 2026 Photo Gallery
+description: Photos from PACT 2026
+id: gallery
+layout: page_fullwidth
+extra_css: /gallery/gallery.css
+---
+
+<div class="gallery-page">
+  <div class="intro">
+    <p class="eyebrow">CHICAGO, ILLINOIS · OCTOBER 19–22, 2026</p>
+    <h1>PACT 2026 Photo Gallery</h1>
+    <p>Explore four days of research, conversations, and community.</p>
+  </div>
+
+  <a
+    class="summit"
+    href="https://nationalsciencedatafabric.org/news/nsdf-summit-2026-gallery/"
+  >
+    <span
+      ><strong>NSDF Summit 2026</strong><br />Explore the Summit’s dedicated
+      photo gallery</span
+    >
+    <span aria-hidden="true">View photos ↗</span>
+  </a>
+
+  <div id="days" class="days" aria-label="Choose a conference day"></div>
+  <div class="toolbar">
+    <div>
+      <h2 id="dayTitle"></h2>
+      <p id="summary" aria-live="polite"></p>
+    </div>
+    <label
+      >Browse an event<select id="events">
+        <option value="">All events</option>
+      </select></label
+    >
+  </div>
+  <div id="albums"></div>
+  <noscript>Please enable JavaScript to browse the photo gallery.</noscript>
+
+  <dialog id="viewer" aria-label="Photo viewer">
+    <div class="viewerbar">
+      <span id="caption"></span>
+      <button id="close" aria-label="Close photo viewer">✕</button>
+    </div>
+    <div class="stage">
+      <button id="prev" aria-label="Previous photo">‹</button>
+      <img id="large" alt="" />
+      <button id="next" aria-label="Next photo">›</button>
+    </div>
+    <p id="position"></p>
+    <a id="original" target="_blank" rel="noopener">Open full-size photo ↗</a>
+  </dialog>
+</div>
+
+<script src="{{ site.baseurl }}/gallery/gallery-data.js"></script>
+<script src="{{ site.baseurl }}/gallery/gallery.js"></script>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_fullwidth
 title: Student Research Competition
 id: acm-src
 ---
