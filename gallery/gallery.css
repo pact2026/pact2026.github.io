@@ -1,0 +1,285 @@
+.gallery-page,
+.gallery-page * {
+  box-sizing: border-box;
+}
+
+.gallery-page {
+  color: #212529;
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.gallery-page a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.gallery-page a:hover {
+  text-decoration: underline;
+}
+
+.gallery-page .intro {
+  padding: 46px 0 22px;
+}
+
+.gallery-page h1 {
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 600;
+  margin: 10px 0 18px;
+}
+
+.gallery-page h2 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.gallery-page h3 {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.gallery-page .eyebrow {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #6c757d;
+}
+
+.gallery-page .summit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #eef5ff;
+  border-left: 4px solid #0d6efd;
+  padding: 20px 24px;
+  border-radius: 4px;
+  gap: 20px;
+}
+
+.gallery-page .summit strong {
+  font-size: 19px;
+}
+
+.gallery-page .days {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 32px 0;
+}
+
+.gallery-page .days button {
+  font: inherit;
+  text-align: left;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  border-radius: 5px;
+  padding: 14px 18px;
+  cursor: pointer;
+  color: #495057;
+}
+
+.gallery-page .days button strong {
+  display: block;
+  font-size: 19px;
+}
+
+.gallery-page .days button[aria-pressed="true"] {
+  background: #0d6efd;
+  color: white;
+  border-color: #0d6efd;
+}
+
+.gallery-page .toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  border-bottom: 1px solid #dee2e6;
+  padding: 4px 0 22px;
+}
+
+.gallery-page .toolbar p {
+  margin: 5px 0;
+  color: #6c757d;
+}
+
+.gallery-page label {
+  font-size: 13px;
+  color: #495057;
+}
+
+.gallery-page select {
+  display: block;
+  max-width: 340px;
+  width: 100%;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font: inherit;
+}
+
+.gallery-page section {
+  padding: 28px 0 14px;
+}
+
+.gallery-page .albumhead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.gallery-page .albumhead span {
+  white-space: normal;
+  color: #6c757d;
+  font-size: 14px;
+}
+
+.gallery-page .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.gallery-page .photo {
+  padding: 0;
+  border: 0;
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+  background: #f0f2f4;
+  position: relative;
+  aspect-ratio: 4 / 3;
+}
+
+.gallery-page .photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.2s;
+}
+
+.gallery-page .photo:hover img {
+  transform: scale(1.035);
+}
+
+.gallery-page .missing {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  padding: 24px;
+  color: #6c757d;
+  font: 14px system-ui;
+}
+
+.gallery-page button:focus-visible,
+.gallery-page a:focus-visible,
+.gallery-page select:focus-visible {
+  outline: 3px solid #f4ae29;
+  outline-offset: 4px;
+}
+
+.gallery-page dialog {
+  border: 0;
+  border-radius: 6px;
+  padding: 20px;
+  color: #fff;
+  background: #15191e;
+  width: min(1150px, 96vw);
+  max-height: 95vh;
+}
+
+.gallery-page dialog::backdrop {
+  background: #000d;
+}
+
+.gallery-page .viewerbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.gallery-page .viewerbar button,
+.gallery-page .stage button {
+  background: transparent;
+  color: white;
+  border: 0;
+  font-size: 32px;
+  cursor: pointer;
+}
+
+.gallery-page .stage {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.gallery-page .stage img {
+  max-width: calc(100% - 95px);
+  height: 68vh;
+  object-fit: contain;
+}
+
+.gallery-page .stage button {
+  font-size: 48px;
+}
+
+.gallery-page dialog p {
+  margin: 10px 0;
+}
+
+.gallery-page dialog a {
+  color: #9cc5ff;
+}
+
+@media (max-width: 700px) {
+  .gallery-page .intro {
+    padding-top: 28px;
+  }
+
+  .gallery-page h1 {
+    font-size: 32px;
+  }
+
+  .gallery-page .days {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .gallery-page .toolbar {
+    display: block;
+  }
+
+  .gallery-page .toolbar label {
+    display: block;
+    margin-top: 15px;
+  }
+
+  .gallery-page .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .gallery-page .albumhead {
+    display: block;
+  }
+
+  .gallery-page .summit {
+    display: block;
+  }
+
+  .gallery-page .summit > span:last-child {
+    display: block;
+    margin-top: 8px;
+  }
+
+  .gallery-page .stage img {
+    height: 55vh;
+  }
+}
